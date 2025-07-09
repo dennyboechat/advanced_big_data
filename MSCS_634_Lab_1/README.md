@@ -1,5 +1,7 @@
 Student: Denny Boechat.
+
 Course: Advanced Big Data and Data Mining (MSCS-634-B01).
+
 Lab 1: Data Visualization, Data Preprocessing, and Statistical Analysis Using Python in Jupyter Notebook.
 
 ## Lab Purpose
@@ -15,3 +17,5 @@ In the bar chart, we see clear differences in average Sale Price across land use
 
 ## Challenges
 First challenge was getting Pandas work. I realized it needed to be installed separatelly. Same for matplotlib package.
+
+Some sintax problems, but nothing major.
