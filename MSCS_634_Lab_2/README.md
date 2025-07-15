@@ -18,7 +18,7 @@ Best k varies by dataset
 - On the Wine dataset (well-behaved, small, low-dimensional), good values for k often fall between 5 and 11.
 - No single k is always best. It’s dataset-dependent, which is why trying multiple values is essential.
 
-We found that accuracy tends to improve as we move from k=1 to k=5 or 11, indicating reduced overfitting. However, performance may decline slightly with higher k values like 21, likely due to underfitting. The optimal value of k for this dataset appears to be in the range of 5 to 11, balancing bias and variance effectively.
+It was found that accuracy tends to improve as we move from k=1 to k=5 or 11, indicating reduced overfitting. However, performance may decline slightly with higher k values like 21, likely due to underfitting. The optimal value of k for this dataset appears to be in the range of 5 to 11, balancing bias and variance effectively.
 
 ### RNN
 All Radii likely result in 100% coverage and identical accuracy
