@@ -1,0 +1,19 @@
+Student: Denny Boechat.
+
+Course: Advanced Big Data and Data Mining (MSCS-634-B01).
+
+Lab 4: Regression Analysis with Regularization Techniques
+
+## Lab Purpose
+In this lab, we explore various regression techniques to model and predict data, starting with Linear, Multiple, and Polynomial Regression. We then applied Ridge and Lasso Regression to understand how regularization can reduce overfitting and improve model generalization. Each model was evaluated using key performance metrics including MAE, MSE, RMSE, and R², allowing us to compare their accuracy and reliability. Throughout the process, visualizations helped us interpret model behavior and spot trends or issues in the predictions, deepening our understanding of how different regression methods perform on real-world data.
+
+## Key insights and models comparison
+After running all the regression models on the Diabetes dataset, I gained several important insights about how each method performs and how regularization affects the results. Starting with simple linear regression, using just one feature (bmi), the model gave a basic idea of the relationship between that feature and the target. However, it clearly underfit the data — the predictions missed a lot of complexity that exists when you look at more features.
+
+Once I switched to multiple linear regression and included all the features, the model’s performance improved a lot. It was able to capture more of the patterns in the data, but at the same time, it became more sensitive to things like noise or multicollinearity. That’s where polynomial regression came in — by increasing the degree, I could build models that fit the data better. With degrees like 2 or 3, the performance was stronger, but when I pushed the degree up to 5 or 10, overfitting became a real issue. The model started memorizing the training data instead of learning general patterns, which made the test performance worse.
+
+To deal with this, I tried Ridge and Lasso regression, which both use regularization. Ridge uses L2 regularization, which shrinks the coefficients but keeps all features in the model. It helped smooth things out and improved generalization. Lasso, on the other hand, uses L1 regularization, and it actually sets some coefficients to zero. This was interesting because it helped automatically drop less useful features. Both models responded differently to changes in the alpha parameter. When alpha was small, the models behaved more like regular linear regression — very flexible, but prone to overfitting. When alpha was increased, the models became more conservative. Ridge just shrank the coefficients more, while Lasso aggressively dropped features. But if alpha was too high, both models started to underfit and lost performance.
+
+Comparing all the models, I’d say Ridge and Lasso gave the most balanced results overall, especially when tuned properly. Polynomial regression was powerful but needed to be handled with care to avoid overfitting. The simple model gave a good starting point, but clearly wasn't enough on its own. One of the key takeaways from this whole exercise is that the Diabetes dataset has some strong linear relationships — especially with features like bmi and s5. Also, it became clear that regularization is super useful for controlling complexity and improving how well a model generalizes to new data.
+
+And honestly, one of the coolest parts was visualizing everything. Seeing how the predicted values lined up with the actual ones, or how different models fit the data curves, really helped me understand what was going on. The charts made the learning more intuitive and satisfying, it’s one thing to see numbers, but it’s way more engaging to actually see how the models perform side by side.
