@@ -1,0 +1,1735 @@
+project_name,patient_full_name,patient_date_of_birth,gender,general_appointment_date,general_prescribed_medications,patient_height,patient_weight,patient_temperature,patient_blood_glucose,patient_pulse,patient_oxygen_saturation,patient_blood_pressure_diastolic,general_notes,dental_appointment_date,dental_notes,dental_prescribed_medications,treated_teeth
+Ambovombe,Aidah,1983-03-05,female,,,,,36.6,,,,,,2024-10-11 00:00:00.000,13>9,,"4, 2, 3"
+Ambovombe,Braim,2002-03-29,male,,,,,36.6,,,,,,2024-10-12 00:00:00.000,120/80mmHg,,"19, 30"
+Ambovombe,Datsizy,2007-11-09,male,,,,,36.6,,,,,,2024-11-09 00:00:00.000,"Suspeita de Ameloblastoma, healthy in general 
++261338820483
++261342922874",,"22, 21"
+Ambovombe,Edvine,1966-05-09,female,,,,,36.6,,,,,,2024-11-09 00:00:00.000,,,"15, 3"
+Ambovombe,Homendoe nestiline,2005-06-06,female,,,,,36.6,,,,,,2024-11-17 00:00:00.000,,,12
+Ambovombe,Jean Chris,2013-03-19,male,,,,,36.6,,,,,,2024-10-11 00:00:00.000,,Dipirona 500mg - 4,18
+Ambovombe,Jean Claude,2002-03-12,male,,,,,36.6,,,,,,2024-11-09 00:00:00.000,,,"4, 3"
+Ambovombe,Lafisoa brigitte,1995-10-07,female,,,,,36.6,,,,,,,,,
+Ambovombe,Mahadie,1980-04-02,male,,,,,36.6,,,,,,2024-10-10 00:00:00.000,Ibuprofen,,"31, 8, 3, 29, 30, 4"
+Ambovombe,Maho Marinesoa,1999-05-28,female,,,,,36.6,,,,,,2024-10-10 00:00:00.000,Bp: 11>8,Ibuprofen 200mg - 4,"31, 29, 30"
+Ambovombe,Maliovasoa,1997-03-26,female,,,,,36.6,,,,,,2024-10-11 00:00:00.000,10>8,,"8, 10, 9"
+Ambovombe,Manjosoa jean leopold,1952-07-22,male,,,,,36.6,,,,,,2024-10-10 00:00:00.000,Bp 13>9mmh,Ibuprofen 200mg - 2,2
+Ambovombe,Marie Nicole,1988-01-18,female,,,,,36.6,,,,,,2024-10-11 00:00:00.000,13>9,,"18, 31"
+Ambovombe,Mary Hozety,2002-12-28,female,,,,,36.6,,,,,,2024-11-09 00:00:00.000,Abscess drainage on buccal of 3rd quadrant,,
+Ambovombe,Melitina,1962-07-03,female,,,,,36.6,,,,,,2024-10-11 00:00:00.000,10>7,,28
+Ambovombe,Monja Golden Jospin,2000-03-05,male,,,,,36.6,,,,,,2024-10-10 00:00:00.000,,,"3, 13, 29"
+Ambovombe,Nirike,1973-10-08,male,,,,,36.6,,,,,,2024-11-09 00:00:00.000,,,"4, 8, 9, 3"
+Ambovombe,Nomenjanahary paulinette,2016-12-13,female,,,,,36.6,,,,,,2024-10-11 00:00:00.000,,,T
+Ambovombe,Rahovatae,1974-11-08,female,,,,,36.6,,,,,,2024-10-12 00:00:00.000,130/80mmHg,,"9, 29"
+Ambovombe,Rasoa Mihanta,1971-09-10,female,,,,,36.6,,,,,,2024-10-10 00:00:00.000,Bp: 12>8,Ibuprofen 200mg - 4,18
+Ambovombe,Rasoa Vinognde,1971-04-18,female,,,,,36.6,,,,,,2024-11-09 00:00:00.000,,,"30, 17, 29, 28"
+Ambovombe,Razafindrasoa marinette,1947-11-13,female,,,,,36.6,,,,,,2024-10-10 00:00:00.000,Bp: 160>101,,
+Ambovombe,Sakaveloe,1972-09-11,female,,,,,36.6,,,,,,2024-10-11 00:00:00.000,Bp 16>9,Dipirona 500mg - 6,"14, 13, 10, 9, 8, 7, 4, 3, 15"
+Ambovombe,Sambenahae,1988-07-16,female,,,,,36.6,,,,,,,,,
+Ambovombe,Sija zerimeny,1974-10-01,female,,,,,36.6,,,,,,2024-10-10 00:00:00.000,Bp: 11>7,Ibuprofen 200mg - 10,"28, 4, 8, 7, 10, 12, 13, 14, 30, 3, 19"
+Ambovombe,Soafiamy Betsimeda,2002-03-29,female,,,,,36.6,,,,,,2024-11-09 00:00:00.000,,,19
+Ambovombe,Tolisoa,1992-10-05,female,,,,,36.6,,,,,,,,,
+Ambovombe,Tsavonie,1960-11-15,female,,,,,36.6,,,,,,,,,
+Ambovombe,Varae,1998-05-13,female,,,,,36.6,,,,,,,,,
+Ambovombe,Vetsoa,1982-07-01,female,,,,,36.6,,,,,,2024-10-11 00:00:00.000,12>8,Dipirona 500mg - 10,"12, 2, 11, 6, 9, 8, 13, 3"
+Ambovombe,Vilisoa,1953-06-10,female,,,,,36.6,,,,,,2024-10-10 00:00:00.000,Bp: 12>9,Ibuprofen 200mg - 4,"6, 8, 9"
+Ambovombe,Vilisoa,1984-06-09,female,,,,,36.6,,,,,,2024-11-09 00:00:00.000,,,"4, 5, 3"
+Ambovombe,Voadinirina Harimalala,2003-09-10,female,,,,,36.6,,,,,,2024-10-10 00:00:00.000,Bp 12> 8,Ibuprofen 200mg - 5,31
+Ambovombe,Volendraza,1999-10-16,male,,,,,36.6,,,,,,,,,
+Fiji Med Health - Mana Island,Aaron Morrell,2001-12-22,male,2025-03-26 08:02:10.057,,178.0,64.0,36.5,132.0,74.0,99.0,74.0,"CC: Headache with aura. He would also like a dental check.
+
+HPI: Has intermittent headaches with aura, usually 1-2x/week; Patient reports blurry vision prior to experiencing head pain, he states that the pain lasts about 10 min then goes away, but blurry vision lasts for 24 hours. He states these happen roughly 1-2 times per week.  Patient also experiences racing heart, sometimes with head pain.
+
+Exam: Multiple dental caries in the molars bilaterally, otherwise non-focal
+
+Assessment/plan: Advised to follow up on the mainland for dental evaluation; Motrin as needed for headache pain, encouraged on other symptomatic care;",,,,
+Fiji Med Health - Mana Island,Adi Alesi Kama,2024-06-09,female,2025-03-24 05:17:48.270,,73.0,9.0,36.9,,,,,Concerns with rash on scalp.,,,,
+Fiji Med Health - Mana Island,Adi Kuila Amele,2019-04-01,female,2025-03-23 21:58:40.992,,121.0,11.2,36.7,,88.0,100.0,60.0,"HPI: No complaints, well child-examination
+
+Exam: Non-focal, no acute findings 
+
+Assessment: Continue routine health maintenance and healthy living",2025-03-24 06:26:43.974,Flouride tx applied to upper and lower teeth,,S
+Fiji Med Health - Mana Island,Adi Sainimere Naleweniikataga,1989-03-11,female,2025-03-26 07:54:42.485,,176.0,134.4,36.5,99.0,66.0,97.0,82.0,"Pt complains of upper front tooth pain. Here for general check up. No allergies or past medical hx.
+
+HPI: Has a tooth that has been discolored for some time, and wants evaluation for possible restorative care; No additional complaints
+
+Exam: R lateral incisor with mild discoloration, no major chipping or cavity present; 
+
+Assessment/plan: Dental waitlist added; Counseled on weight loss and additional healthy living measures",,,,
+Fiji Med Health - Mana Island,Adi Temo Talei,2011-08-01,male,2025-03-24 21:40:30.268,Amoxicillin 500mg - 14,159.0,52.9,37.0,,99.0,99.0,62.0,"HPI:  Productive cough, white sputum x1 week. Endorses HA, nasal congestion and fever. States cough is worsening. 
+ROS: difficulty breathing, cough, sputum, fever.
+PE: 
+Gen: Alert and oriented, non-toxic, NAD
+HEENT: Ear canals free of erythema and inflammation bilaterally, no discharge. Bilateral TM gray, normal landmarks. Oropharynx free of erythema, no tonsillar hypertrophy. No cervical lymphadenopathy. 
+Heart: RRR, No GMR
+Lungs: No accessory muscle use. Crackles to bilateral lower lung bases. 
+Dental: Multiple dental carries. Cracked and missing teeth present. 
+Plan: 
+Age appropriate anticipatory guidance given.
+DX:
+PNA vs sinus infection 
+1. Amoxicillin x7 days
+Return in 2 days for recheck",2025-03-25 19:49:04.134,Fluoride applied to upper and lower,,31
+Fiji Med Health - Mana Island,Adikuila Vakete,2000-01-01,female,2024-03-28 00:00:00.000,,110.0,20.0,36.7,,96.0,98.0,,"L arm laceration; b leg rash; nkda, no medications at home, hx of cough everynight. Left without seeing md",,,,
+Fiji Med Health - Mana Island,Akanisi Tamani,1983-07-14,female,2025-03-25 05:53:44.338,,169.0,98.8,36.9,106.0,70.0,99.0,98.0,"Hx with HTN, not taking any medications. No concerns
+
+HPI: Some mild blurry vision, worse with reading; No pain or current complaints; has been previously diagnosed with high blood pressure, but not on medications
+
+Exam: Non-focal findings
+
+Assessment/plan: Counseled extensively on healthy eating, reducing fatty foods, reducing salt, and weight loss to manage mildly elevated BP; recommended follow up in 1-2 months for BP re-check; reading glasses given;",,,,
+Fiji Med Health - Mana Island,Akuila Cama Varasi Kete,2000-01-01,male,2025-03-23 22:51:05.851,,185.0,96.4,36.1,99.0,75.0,98.0,,"No known medical dx
+No tob use",,,,
+Fiji Med Health - Mana Island,Alan Gndersby,2003-08-19,male,2024-03-26 00:00:00.000,,185.0,100.9,36.6,78.0,79.0,98.0,70.0,,2024-03-28 00:00:00.000,,,
+Fiji Med Health - Mana Island,Alelia Mateo,1966-02-01,female,2024-03-27 00:00:00.000,,162.0,89.4,36.6,204.0,89.0,95.0,72.0,Diabetes mellitis - given metformin po bid. Htn - given losartan 50 mg po qd. L foot pain - given ibuprofen 200 mg po bid prn,,,,
+Fiji Med Health - Mana Island,Alisi Dralolo,2020-04-17,female,2025-03-25 22:18:44.946,Tylenol 80mg - 15,111.5,18.75,37.3,,101.0,98.0,52.0,"Fever, congestion x 2 days
+Sibling sick too
+Requests Benadryl",,,,
+Fiji Med Health - Mana Island,Alumeci Tuivanua,2014-04-05,female,2025-03-23 23:06:20.120,,139.0,37.3,36.8,,89.0,99.0,80.0,"Full name is Alumeci Kocau Tuivanua.  
+
+HPI: Presents for well-child examination, also has a cough for 2 days
+
+Exam: Non-focal examination, no significant acute abnormalities, no focal wheezes or rales, no respiratory distress or tachypnea
+
+Assessment/Plan: Continue routine health maintenance, symptomatic management for likely viral URI",2025-03-25 19:43:09.005,Fluoride tx applied to upper and lower teeth,,18
+Fiji Med Health - Mana Island,Amare Ratuvou,1964-06-18,male,2024-03-27 00:00:00.000,Ibuprofen 400mg - 30,167.0,49.7,36.6,94.0,71.0,97.0,70.0,"No pmhx, here for vision problems. Both near and far. Sight difficulty noted. Does not wear glasses. No other med hx reported. No other complaints.",,,,
+Fiji Med Health - Mana Island,Amele Ratubuli,2013-04-12,female,2025-03-23 23:57:34.390,,146.0,31.5,36.7,,89.0,99.0,76.0,"HPI: no complaints today
+ROS negative 
+PE unremarkable 
+Plan: no need for f/u or referral today. Anticipatory guidance regarding hand hygiene and dental hygiene encouraged.",,,,
+Fiji Med Health - Mana Island,Ana Tuiolo,2012-05-20,female,2025-03-24 21:41:34.954,,160.0,42.7,36.9,,89.0,99.0,68.0,"HPI: Productive cough since Saturday 03/22/25. no fever. no nasal congestion. 
+Ax: none 
+Hx: none
+ROS: Negative for all systems except cough
+PE: 
+Gen: Alert and oriented, non-toxic, NAD
+HEENT: Ear canals free of erythema and inflammation bilaterally, no discharge. Bilateral TM gray, normal landmarks. Oropharynx free of erythema, no tonsillar hypertrophy. No cervical lymphadenopathy. 
+Heart: RRR, No GMR
+Lungs: No accessory muscle use. CTA in all lung fields.
+Abdomen: Soft, non-tender
+Dental: normal dentition
+Plan: 
+Age appropriate anticipatory guidance given.
+DX: Viral URI
+supportive care, honey prn",2025-03-25 19:51:15.736,Fluoride applied to upper and lower,,14
+Fiji Med Health - Mana Island,Ana Vunisa,2021-08-16,female,2025-03-24 05:23:57.671,Benadryl (12.5/5mL) 2.5 mL - 50,96.0,13.9,36.7,,102.0,96.0,80.0,"Concerns with runny nose and cough.
+
+HPI: cough and runny nose x1 week
+ROS: 
+Discharge from bilateral nostrils 
+PE:
+Several dental caries and cracked teeth in the front
+Productive cough 
+Erythema on tympanic membrane 
+Raised bumps on feet and hands
+Plan: 
+Benadryl for runny nose and hydrocortisone cream for bumps on feet and hands",,,,
+Fiji Med Health - Mana Island,Anare Buli,2022-11-09,male,2024-03-26 00:00:00.000,,,12.2,36.8,,110.0,99.0,,Tinea - clotrimazole apply to rasj twice a day x 14 days,,,,
+Fiji Med Health - Mana Island,Anare Ratuvou,1964-06-18,male,2025-03-25 07:06:07.272,Ibuprofen  400mg - 30,168.0,51.7,36.8,138.0,81.0,99.0,78.0,"Chief Complaint: general checkup 
+Hx: takes medication for headache
+NKA
+Reading glasses check",,,,
+Fiji Med Health - Mana Island,Anaseini Vululaya,1987-09-21,female,2024-03-25 00:00:00.000,,168.0,103.3,36.6,167.0,80.0,98.0,80.0,L axilla abscess i/d. Pre diabetes. Bactrim ds po bid #20. Discussed diabetes prevention. 3/29 fungal - tinea pedis - fluconazole 1 tab po q week x 4 weeks #4,,,,
+Fiji Med Health - Mana Island,Androulla Naitauniyalo,2001-06-14,female,2025-03-26 07:50:29.516,Ibuprofen 400mg - 20,174.0,96.4,36.4,128.0,99.0,99.0,80.0,"Patient complains of headache w/ blurry vision. 
+Also has lower right tooth pain
+No previous medical hx or concerns.",,,,
+Fiji Med Health - Mana Island,Aniteshna Vpasad,1995-03-25,male,2024-03-26 00:00:00.000,,,,37.4,,84.0,96.0,,Dx: lue laceration; received w/ 5-0 sutures; md provided sutures; recommended sutures taken out in next 7-10 days; long term damge minimal,,,,
+Fiji Med Health - Mana Island,Apenisa Vuli,1978-08-28,male,2024-03-27 00:00:00.000,,176.0,88.7,36.4,96.0,72.0,98.0,99.0,"Reports vision problems, (b) shoulder pain (from rugby), (l) planta foot pain, nkda, reports smokes and etoh once a month, ringworm located on back. Gave losartan 50 mg po daily for htn, ibuprofen 200 mg po bid for shoulder pain, and clotrimazole bid to rash. Vision spots works as captain.",,,,
+Fiji Med Health - Mana Island,Apimegeki Ratusaka,1987-10-24,male,2024-03-27 00:00:00.000,,173.0,91.3,36.7,104.0,66.0,97.0,102.0,"Keloid scar scalp x1, chest x2. Lumbar strain.",,,,
+Fiji Med Health - Mana Island,Apisai Qoro,2012-07-10,male,2025-03-24 00:00:23.668,,141.0,31.4,36.7,,81.0,98.0,88.0,,,,,
+Fiji Med Health - Mana Island,Apisai Sekamate,1988-02-25,male,2025-03-25 23:41:24.926,,172.0,84.0,36.2,94.0,65.0,98.0,90.0,"Chief Complaint: chest pain up inspiration for six days along with headache and blurry vision starting today
+Hx: none, no medications
+NKA
+
+HPI: Has some intermittent chest pain, pleuritic, now improving; has a mild cough with associated headaches, blurry vision, started today; no additional complaints
+
+Exam: Non-focal exam otherwise
+
+Assessment/plan: Loratadine as needed for congestion, Paracetamol for headaches; Likely viral URI; counseled on healthy diet",,,,
+Fiji Med Health - Mana Island,Aqela Tokovou,2017-06-19,female,2025-03-23 22:29:27.501,,123.0,23.5,36.8,,84.0,99.0,82.0,"Full name is Aqela Talei Grace Tokovou
+
+HPI: No complaints, presents for well-child examination
+
+Exam: Dental caries, no additional focal findings
+
+Assessment: Dental evaluation; continue routine health maintence",2025-03-24 05:30:15.404,Fluoride treatment applied to upper and bottom teeth,,"18, A, L, B"
+Fiji Med Health - Mana Island,Arieta Amele,2024-02-02,female,2024-03-28 00:00:00.000,,61.0,6.9,35.7,,,,,Here for diaper rash. Baby is feeding well otherwise. Has mild diaper rash present. Educated on keeping area clean and dry. Given nystatin cream to use if not improving. Nystatin cream tid 10-14 days,,,,
+Fiji Med Health - Mana Island,Asaili Nawaifabu,1983-10-26,male,2024-03-29 00:00:00.000,,194.0,114.3,36.6,111.0,97.0,97.0,98.0,"L ankle pain, status post 4 weeks ago likely sprained. No pmh, nkda, no medications. Social smoker and drinker 3x/week. Wrapped ankle with ace bandage. Noted mild vision disturbances/issues with distance; +1.00 on eye examination. Gave panadol 500 mg q6h prn pain for ankle.",,,,
+Fiji Med Health - Mana Island,Asena Sekolatika,2012-09-04,female,2024-03-27 00:00:00.000,,,,36.9,,82.0,100.0,,"Right ear pain, tm bilateral, tinea face gave clotrimazole top qd rx. Negative scoliosis screening.",,,,
+Fiji Med Health - Mana Island,Asenaca Rutudradra,1970-12-29,female,2025-03-24 05:26:38.093,Amoxicillin 500 mg - 30,170.0,95.7,36.5,120.0,87.0,98.0,94.0,"Productive cough x2weeks, nodule on R shoulder and L rib cage, soft immobile.
+
+HPI: Productive cough with phlegm for 2 weeks time, non-remitting. No hx of asthma, no dypsnea. Also has soft, mobile masses of R shoulder and left lateral chest wall. Some mild pain noted with certain movements or pressure.
+
+Exam: Lung sounds clear bilaterally, no focal rales or wheezing. Soft, mobile masses to soft tissue of proximal RUE, and left lateral chest wall, no overlying skin changes, no TTP. 
+
+Assessment/Plan: Given time course of cough, possible bacterial bronchitis. Will given Rx for amoxicillin, see above. Advised to follow up on the mainland for likely lipomas of the RUE and L lateral chest wall. No indication for emergent intervention at this time. 
+
+Rx: Amoxicillin as noted above.",,,,
+Fiji Med Health - Mana Island,Asenia Marama,1971-03-05,female,2024-03-25 00:00:00.000,,,,37.0,130.0,67.0,98.0,72.0,"Htn, headache, edentulous, trouble with vision, need referral to vision check, ibuprofen and losartan",,,,
+Fiji Med Health - Mana Island,Asonio Nemani,2016-01-18,male,2024-03-24 00:00:00.000,,129.0,24.4,36.6,,92.0,99.0,,,2024-03-28 00:00:00.000,,,
+Fiji Med Health - Mana Island,Ateca Tuni,1966-08-26,female,2025-03-24 23:07:09.482,Ibuprofen 400 mg - 50,165.0,79.8,36.4,110.0,80.0,98.0,78.0,"CC: Denies any past medical dx. Takes a pink pill daily. Bilaterally pain on arms since last year.
+Med hx: Prior arm pain, takes a pill as needed for the pain
+
+HPI: Has pain to both arms, worse at night time, improved with massage and stretching. Also has some pain to the right heel after standing/walking
+
+Exam: Equal strength and sensation in bilateral upper extremities, no focal swelling or deformities, radial pulses 2+ bilaterally
+
+Assessment/plan: Motrin as needed for pain, encouraged use of massage and stretching to assist with pain management; BP mildly elevated, not significantly high, has follow up with PCP on the mainland; encouraged healthy diet and exercise",,,,
+Fiji Med Health - Mana Island,Avenai Vuruna,1998-08-03,male,2025-03-24 05:05:09.658,Paracetamol 500 mg - 20,171.0,85.1,36.4,96.0,59.0,97.0,88.0,"Chronic R knee pain after childhood rugby injury.
+
+HPI: R knee pain for many years, worse with cold weather; no recent injuries, able to walk without significant issue.
+
+Exam: No significant swelling/pain to the R knee, valgus and varus stress without laxity, negative anterior/posterior drawer testing.
+
+Assessment/Plan: Use Paracetamol and heat as needed for pain flare ups, continue symptomatic care at home.
+
+Rx: Paracetamol 500 mg q6h PRN pain, dispense 20 tablets",2025-03-24 05:53:43.973,,"Acetaminophen 500 - 16, Ibuprofen 400 - 8",17
+Fiji Med Health - Mana Island,Bulou Evisaki,2015-02-25,female,2025-03-23 23:10:29.290,,141.0,33.4,36.7,,103.0,99.0,74.0,"HPI: Presents for well-child examination, only complaint of mild left sided neck pain this morning, no trauma or injuries
+
+Exam: Very mild TTP of the left shoulder muscles, no significant bony tenderness or obvious deformities; mild dental caries present
+
+Assessment/Plan: Continue routine health maintenance; one-time dose of 200 mg of Motrin given in clinic for likely muscle strain of left neck; dental referral for evaluation",2025-03-25 19:41:57.583,Fluoride applied to upper and lower,,30
+Fiji Med Health - Mana Island,Cassey Navolaca,2023-03-14,female,2025-03-23 23:50:12.650,,91.0,13.5,36.6,,130.0,99.0,,"Actual DOB 3/8/23
+HPI: tooth pain 
+ROS: tooth pain; difficulty eating  
+PE: 
+- extra tooth growing 
+Plan: Referral to dentistry. Anticipatory guidance regarding hand hygiene and dental hygiene encouraged.",2025-03-24 05:21:13.580,,,F
+Fiji Med Health - Mana Island,Charles Danford,1985-08-01,male,2024-03-28 00:00:00.000,,171.5,71.1,36.5,94.0,97.0,97.0,89.0,"No pmhx. Presents for vision/dental problems. Occassional blurry vision was given glasses. Low back pain chronic, no recent changes. Dental pain upper left mouth, ongoing. Rx: penadol 500 mg q6h prn 30 tabs. Dental: 3/28/2024 screening & tooth extraction with 2 rounds of anesthesia. Seen again 3/29/2024 dental clinic recheck exam plus fillings to be completed & rx given.",2024-03-29 00:00:00.000,,,
+Fiji Med Health - Mana Island,Edward Fricovsry,2003-07-26,male,2024-03-29 00:00:00.000,,,,36.4,93.0,92.0,98.0,75.0,Here for suture removal. Suture removal completed.,,,,
+Fiji Med Health - Mana Island,Elena Tupou Senijale,2017-01-01,female,2024-03-26 00:00:00.000,,123.0,21.9,37.0,40.0,102.0,97.0,,"No pmh, nkda, declines pain and does not take any medications. Some scattered dental caries on assessment. Scabies visble and noted on assessment, ivermectin given 1/2 dose now and repeat in 1 week.",2024-03-27 00:00:00.000,,,
+Fiji Med Health - Mana Island,Elenoa Nauria,1980-09-09,female,2025-03-25 22:09:57.079,"Ibuprofen 400mg - 30, Calcium Carbonate 500mg - 60",160.0,123.0,36.8,130.0,88.0,97.0,82.0,"GI issues—burping, lemons chili—will come to clinic for Tums
+B knee pain L>R worse with walking, no injury—will come to clinic for ibuprofen
+Rash on back—seen and given topical cream not improving",,,,
+Fiji Med Health - Mana Island,Elia Nakuta,1982-06-26,male,2025-03-25 05:57:11.559,,172.0,101.6,36.2,100.0,89.0,96.0,78.0,"Chief Complaint: L upper mouth with broken tooth, no pain. 
+Hx: none, no medications
+NKA
+PE: L upper tooth cracked and missing half of tooth. 
+Plan: dental consult and appt made for pt on thursday",2025-03-27 04:30:05.714,BP 140/68,"Ibuprofen 400mg - 8, Paracetamol 500mg - 16",16
+Fiji Med Health - Mana Island,Emami Nagura,1981-01-24,male,2024-03-27 00:00:00.000,,,84.2,36.7,88.0,67.0,98.0,98.0,Left shoulder pain. Given ibuprofen 200 mg po bid. Needs dentures.,,,,
+Fiji Med Health - Mana Island,Emele Bokonaqiwa,2024-07-11,female,2025-03-23 21:53:26.752,,64.0,8.2,36.8,,,,,"Boils on back chest and face.
+Given instructions on use of topical bacitracin. F/u with any worsening.",,,,
+Fiji Med Health - Mana Island,Emele Vula,1965-04-02,female,2025-03-25 06:29:14.457,,163.0,113.4,36.4,,,,88.0,,,,,
+Fiji Med Health - Mana Island,Emile Vula,1964-04-02,female,2025-03-23 22:01:36.990,,160.0,109.0,36.0,106.0,81.0,97.0,88.0,"HTN
+Enalopril 5mg bid
+ASA 81mg qd",,,,
+Fiji Med Health - Mana Island,Emosi Dauya,2024-05-05,male,2025-03-25 05:30:24.242,,74.0,9.0,36.9,,100.0,96.0,,"Chief Complaint: clear productive cough, started yesterday 03/25
+Hx: none
+NKA
+
+HPI: Feeding well, only complaint of mild cough since yesterday, no resp distress reported; Urinating well, no symptoms of dehydration
+
+Exam: Non-focal exam, no respiratory distress or retractions, breath sounds normal
+
+Assessment/plan: Continue routine health maintenance, cough likely 2/2 viral etiology",,,,
+Fiji Med Health - Mana Island,Emosi Qoro,1996-02-16,male,2025-03-23 22:46:31.727,,173.0,64.9,37.0,78.0,63.0,98.0,80.0,"No known medical dx
+Tob use
+Etoh/kava",,,,
+Fiji Med Health - Mana Island,Enoch Tamaisowata,2022-06-23,male,2024-03-28 00:00:00.000,,86.0,14.7,36.5,,91.0,99.0,,Uri congestion. Given tylenol 80 mg bid prn pain. Topical antibiotic apply once daily to rash. Dental check up completed on 3/29/2024.,2024-03-29 00:00:00.000,,,
+Fiji Med Health - Mana Island,Epi Kunavula,1969-04-13,male,2024-03-29 00:00:00.000,,177.0,69.0,36.2,106.0,86.0,96.0,73.0,"Blurry vision. Lipoma r mid back. Lbp - intermittent, ibuprofen 200 mg po bid prn pain #20. Rear cerumen impact - will try coconut oil nightly or get drops at mainland. Viion.",,,,
+Fiji Med Health - Mana Island,Eroni Dawai,1983-04-04,male,2025-03-26 06:15:32.701,,185.0,93.5,36.2,93.0,80.0,99.0,96.0,"Chief Complaint: tooth pain bottom R, availability ONLY FROM 5-8 PM; back pain that radiates down R arm and is worst in the morning
+Hx: none, takes panadol 2x a day for pain 
+NKA
+
+HPI: Has ongoing R lower molar pain for many months, worse with eating, intermittent pain; has pain in upper back that radiates down the arm, worse in the morning
+
+Exam: R lower molar pain with significant cavitation formed, otherwise non-focal
+
+Assessment/plan: Dental appt made; Motrin given for pain as needed; counseled on regular health maintenance",,,,
+Fiji Med Health - Mana Island,Esava Naivaukula,1983-06-06,male,2025-03-26 06:54:22.487,"Clindamycin 300 mg - 21, calcium carbonate 500mg - 30",181.0,80.7,36.5,83.0,70.0,99.0,88.0,"Chief Complaint: boil on R underarm, GERD
+Hx: Fijian medication for boil 
+NKA
+
+HPI: General checkup and abscesses to R axillary region x1wk
+PE: 
+Gen: Alert and oriented, non-toxic, NAD
+HEENT: Ear canals free of erythema and inflammation bilaterally, no discharge. Bilateral TM gray, normal landmarks. Oropharynx free of erythema, no tonsillar hypertrophy. No cervical lymphadenopathy. 
+Heart: RRR, No GMR
+Lungs: No accessory muscle use. CTA in all lung fields.
+Abdomen: Soft, non-tender
+Dental: Multiple dental carries. Cracked and missing teeth present. 
+Skin: Three fluctuant abscesses present to R axilla that are tender to palpation 
+
+Plan: 
+- R Axillary abscesses x3 => patient refused I&D today
+- warm compresses and abx. If s/s of worsening boils; education on when to seek care in the mainland 
+-
+RX:
+1. Clindamycin 300 mg TID x7days",,,,
+Fiji Med Health - Mana Island,Eseroma Natiri,1993-08-09,male,2025-03-25 06:43:26.364,Omeprazole 20 mg - 14,171.0,96.9,36.2,95.0,66.0,97.0,80.0,"Chief Complaint: general checkup 
+Hx: none, no medications
+NKA
+
+HPI: Has some intermittent epigastric pain, no additional complaints; feels well otherwise
+
+Exam: Non-focal examination
+
+Assessment/plan: Omeprazole x14 days for gastritis treatment, counseled on diet for mild BMI elevation",,,,
+Fiji Med Health - Mana Island,Esther Joy Tokovou,2021-05-09,female,2025-03-25 05:39:28.006,,99.0,16.6,37.2,,125.0,98.0,,"CC: Dental concerns
+PE: Multiple cracked teeth to upper mouth and lower left. Pt c/o pain with eating. No fever. 
+Plan: Appt made tomorrow (Wednesday) at 11am",2024-03-29 00:00:00.000,,,"D, E, F, G"
+Fiji Med Health - Mana Island,Evisake Buluou,2000-01-01,female,2024-03-26 00:00:00.000,,135.0,29.8,36.6,,110.0,99.0,,Amox 250 tid;cipro drops 1 gtt r. Eye,,,,
+Fiji Med Health - Mana Island,Farakiko Sovatabua,1995-05-19,male,2024-03-27 00:00:00.000,"multivitamin 1 tablet - 90, calcium carbonate 500mg - 30, Paracetamol 500mg - 30",178.0,101.0,36.5,97.0,96.0,97.0,78.0,"CC: Rtc for right upper tooth pain, feels broken according to patient and pain started yesterday after initial visit. Was seen by the dentist for anesthetics and filling completed. Referred back to clinic for nasal lump. Md documented l large nasal polyp benign.
+1. LBP, R shoulder pain, chronic -exercises discussed, PCM prn
+2. Gastritis-pt education on diet, ca carb prn
+4. Nasal polyp-referral to ENT recommended",,,,
+Fiji Med Health - Mana Island,Farasiko Mualevu,1969-09-16,male,2024-03-26 00:00:00.000,,171.2,88.2,36.1,141.0,85.0,98.0,80.0,54m hx of htn here for well check and knee pain; rle pain likely chronicl no obvious signs of injury; ibuproffen given for use; pt counseled on bp will start losartan; pt educated by ortho- ibuprofen 400 mg q6h prn 20 tabs; losartan 50 mg 30 tabs,,,,
+Fiji Med Health - Mana Island,Farasiko Sowatabua,1995-05-19,male,2025-03-27 05:22:13.444,,181.0,107.5,37.0,107.0,104.0,95.0,90.0,"Chief Complaint: low back pain R and L and worsens with long periods of sitting, R shoulder pain feels like a heavy weight weighing down, acid reflux after spicy food, curry, daal, noodles
+Hx: no medications, alcohol 1-2x a week, social smoking 
+NKA",,,,
+Fiji Med Health - Mana Island,Filipe Manuka,1995-06-18,male,2024-03-28 00:00:00.000,,179.0,81.7,36.3,106.0,60.0,98.0,70.0,Within normal limits screening exam. + smoking discussed cessation.os good schlatter knees. Given tylenol 500mg bid prn,,,,
+Fiji Med Health - Mana Island,Finau Stewart,1986-05-26,male,2024-03-26 00:00:00.000,,177.8,99.5,36.6,98.0,100.0,97.0,98.0,Dental caries=pain,2024-03-27 00:00:00.000,,,
+Fiji Med Health - Mana Island,Frances Valasiri,1998-01-01,female,2024-03-26 00:00:00.000,,165.0,75.5,37.1,92.0,68.0,98.0,74.0,"Here for toothache, worse with cold items. No meds, no pmh, left side numbness and weakness x 1 yr, no allergies. Cervical strain, recommended stretching. 3/26/2024: seen in dental clinic: received filling. F/u appt: 3/28/2024 - bc implant removed r arm, rx panadol q 6 h prn pain #30",2024-03-26 00:00:00.000,,,
+Fiji Med Health - Mana Island,Grace Togatia,2022-05-12,female,2025-03-25 05:17:00.228,ivermectin 6mg - 1,99.0,13.8,36.7,,122.0,99.0,,"HPI:
+#Per Mom, on sabbath pt got a hold of knife and cut herself in between by great toe R foot. Laceration noted.
+#Skin assessment: mom concerned with scabies. 
+PE: 
+Gen: Alert and oriented, non-toxic, NAD
+Skin: linear tracking consistent with scabies to bilateral hands and feet.
+Laceration with sand embedded between R great toe and second toe. Cleaned with water and antiseptic ointment. Abx ointment applied and buddy taped toes to encourage wound edge approximation. 
+Dental: Multiple dental carries present. No pain. Pt eating and drinking well. No cracked or missing teeth.
+Plan: 
+1. Laceration: keep wound clean and dry. RTC Friday for reassessment
+2. Scabies: Ivermectin x1 now and again in 2 weeks
+3. Continue brushing teeth well.",,,,
+Fiji Med Health - Mana Island,Gunior Roseru,2022-11-16,male,2025-03-24 23:25:19.993,Bacitracin 1 application - 20,83.0,11.3,36.3,,103.0,99.0,,"HPI: 
+#Cough x1 day with nasal congestion. 
+# Several boils to forehead. Mom putting vicks ointment on them.
+PE: 
+Gen: Alert and oriented, non-toxic, NAD 
+Heart: RRR, No GMR
+Lungs: No accessory muscle use. CTA in all lung fields.
+Plan: 
+1. Boils: apply warm compresses TID. Apply antibiotic ointment BID. Return to clinic on Friday and if no improvement will start oral abx at that time. 
+2. Viral URI, supportive care discussed.",,,,
+Fiji Med Health - Mana Island,Horace Whippy,1971-07-30,male,2024-03-29 00:00:00.000,,179.0,89.4,36.4,97.0,87.0,96.0,92.0,"Would like new glasses: vision screening without glasses 20/100 j-16 distance bilateral, with current glasses 20/20 j7 near bilateral, nkda, hx of htn no longer taking meds, smoker daily, etoh use daily, no current meds. Restarted of losartan 50 mg po daily.",,,,
+Fiji Med Health - Mana Island,Ilaitia Tukar Rokoua,1976-08-05,male,2024-03-27 00:00:00.000,,191.0,145.2,36.3,127.0,78.0,97.0,90.0,No pmhx. Here for dental and back pain. Likely musc back pain. Penadol given prn. Dental pain noted as well. Counseled on bp management and weight loss. Will defer meds for now. Rx tylenol 500 mg q6h prn 130 tabs. 3/29 dental 2 no appts available/given.,,,,
+Fiji Med Health - Mana Island,Ili Naivalu,1984-05-24,female,2025-03-25 05:41:16.937,,161.0,93.8,36.0,158.0,78.0,99.0,84.0,"HPI: Concerns with conceiving. Request women provider only. 
+Two children ages 17 and 18yo. HAs been trying to conceive since birth of last child. 
+Plan: Explained that would benefit from PCP consult and bloodwork on mainland to rule out thyroid issues etc.",,,,
+Fiji Med Health - Mana Island,Iliaesri waqa,1992-06-10,male,2025-03-24 22:11:28.489,,190.0,110.0,36.4,86.0,74.0,97.0,83.0,"Tob use
+New concerns",,,,
+Fiji Med Health - Mana Island,Iliaseri Qoro,1973-04-18,male,2024-03-28 00:00:00.000,,193.0,126.2,36.1,87.0,62.0,95.0,92.0,"Med hx: cad status post mi (3 er visits at 47 y/o), headaches, htn, hyperlipidemia, nkda, headaches, reports does not take medications. Rx: metoprolol 50 mg daily #60, asa 81 mg daily #60, tylenol 500 mg tid prn pain #30, ophth referral.",,,,
+Fiji Med Health - Mana Island,Iliesa Vata,1993-12-10,male,2024-03-25 00:00:00.000,,186.5,75.3,36.5,83.0,62.0,98.0,79.0,"Skin disease, chest r. & back ring shape (patient requested more meds); allergies n/a; meds: fluconazole (patient stated last year rash cleared then came back). A tinea corp. Prescribed: diflucan 150g, po qd",,,,
+Fiji Med Health - Mana Island,Ilimeleki Tuks,1995-09-14,male,2024-03-28 00:00:00.000,,168.0,79.2,36.6,97.0,69.0,96.0,82.0,Within normal limits screening exam. Discussed smoking cessation.,,,,
+Fiji Med Health - Mana Island,Inia Bukavuru,2018-03-06,male,2025-03-23 22:26:57.287,,124.0,29.0,37.2,,94.0,99.0,64.0,"HPI: Presents for routine well-child check
+
+Exam: Some dental caries, no additional focal exam findings
+
+Assessment: Dental referral, continue routine health maintenance otherwise",2024-03-27 00:00:00.000,Fluoride tx applied to upper to lower teeth,,"J, I"
+Fiji Med Health - Mana Island,Inoke Buli,2015-06-25,male,2025-03-23 23:05:19.243,,,,36.5,,67.0,99.0,68.0,"HPI: no complaints today
+ROS negative 
+PE unremarkable 
+Plan: no need for f/u or referral today. Anticipatory guidance regarding hand hygiene and dental hygiene encouraged.",2025-03-25 19:34:50.111,Fluoride applied to upper and lower,,
+Fiji Med Health - Mana Island,Inoke Tokalau,1972-02-14,male,2025-03-24 23:56:56.379,,176.0,65.6,36.7,85.0,76.0,97.0,88.0,"Chief Complaint: teeth issues causing him to not eating properly 
+Hx: none, NKA
+
+HPI: Dental pain, multiple prior extractions; however, remaining incisor and molars in the upper teeth are causing continued pain
+
+Exam: Dental caries in upper incisor and bilateral upper molars, partial chipped teeth bilaterally
+
+Assessment/plan: Multiple dental caries, dental appt given; no additional significant findings, encouraged continued health maintenance",2025-03-26 05:09:50.498,BP 128/86,,5
+Fiji Med Health - Mana Island,Inosi Turagakula,2021-04-16,male,2025-03-24 22:56:10.098,,110.0,22.2,36.3,,120.0,99.0,65.0,"CC: Well-child examination
+Med Hx: None
+
+HPI: Presents for well-child examination, has a small bump to the proximal LLE for multiple months
+
+Exam: Small bump to proximal LLE, no surrounding erythema, no fluctuance; no additional focal exam findings
+
+Assessment/plan: Continue routine health maintenance, no evidence of LLE wound infection, likely sequelae from prior insect bite, no evidence of acute infectious process",,,,
+Fiji Med Health - Mana Island,Iowani Bosco,1956-09-10,male,2025-03-25 22:20:37.435,,181.0,74.8,36.1,124.0,101.0,96.0,68.0,"BP recheck
+
+03/26 Chief Complaint: Had dental appt yesterday and had one tooth pulled. Had high BP reading yesterday, here for BP recheck. 
+Hx: few broken bones, arm and shoulder, from playing rugby 
+NKA
+BP ok today,pt reassurance",2025-03-24 05:35:54.699,,,"28, 29"
+Fiji Med Health - Mana Island,Isabella Sosefo,1993-11-09,female,2025-03-24 21:57:26.709,,167.0,105.7,36.4,,87.0,97.0,80.0,"Healthy
+No concerns",,,,
+Fiji Med Health - Mana Island,Isaia Matakaleu,2016-04-27,male,2025-03-23 22:42:57.178,,141.0,45.1,36.6,,77.0,98.0,77.0,"Name is Isaia Vuki Natakalevu
+DOB is 4/22/16
+HPI: dysuria x6 months, normal urine color, is circumcised 
+ROS +dysuria and pain around tip of penis  
+PE: will complete with male provider dr mark when mother is present this evening for consent. Otherwise PE unremarkable 
+Plan: will complete PE male exam and UA with male provider dr mark when mother is present this evening for consent.",,,,
+Fiji Med Health - Mana Island,Isei Maten,2016-04-28,male,2024-03-26 00:00:00.000,,131.0,26.7,37.0,,102.0,98.0,,No vision; no blurring; but has been moving his chair closer to the front also watery eyes; no rash; no dental concerns; no glasses,,,,
+Fiji Med Health - Mana Island,Isei Tokovou,1989-06-21,male,2024-03-29 00:00:00.000,,184.0,113.9,36.2,97.0,94.0,96.0,80.0,"Teeth check up; nkda, declines smoking, drinking and no medications. No pmh. Upper mouth pain, no other complaints. Eye exam: -0.25 distance seen in dental clinic for dental caries 3/29/2024.",2024-03-29 00:00:00.000,,,
+Fiji Med Health - Mana Island,Isikeli Weleilabasa,2021-03-17,male,2024-03-29 00:00:00.000,,97.5,13.4,37.0,,124.0,99.0,,Rash forehead - tinea - clotrimazole apply to area bid x 2 weeks,,,,
+Fiji Med Health - Mana Island,Isimeli Niubalavu,2006-12-15,male,2024-03-25 00:00:00.000,,177.0,75.4,36.4,116.0,71.0,97.0,70.0,"Absess eval, lle absess on exam , wound cleaned and covered, given doxycycline and acetaminophen",2024-03-28 00:00:00.000,,,
+Fiji Med Health - Mana Island,Isiposeci Qoro,2020-02-14,male,2025-03-24 05:20:01.436,,103.0,20.8,36.7,,91.0,99.0,70.0,"Skin assessments, concerns with rashes.",,,,
+Fiji Med Health - Mana Island,Ivaroni Ranadi,2019-12-29,female,2025-03-23 21:58:53.499,,112.0,20.7,36.8,,97.0,98.0,66.0,"CC/HPI: C/o pain L inner ear and front tooth
+
+Exam: Cerumen buildup in bilateral ears; front right incisor discoloration, no obvious subluxation. No additional focal exam findings.
+
+Assessment: Warm water and ear bud usage as needed for ear wax. Dental referral for tooth discoloration.",2025-03-23 22:42:06.967,L is priority for extraction on next visit. Flouride applied to upper and lower teeth.,,"S, L, K, E"
+Fiji Med Health - Mana Island,Jale Alesio,2017-02-20,male,2024-03-26 00:00:00.000,,124.0,24.0,36.9,,92.0,100.0,,No significant pmhx. Here for well check and facial swelling with swelling over the r lip. Showed up in less 3-4 days. Possible insect bite. No underlying dental changes. Will give short course of amoxicillin for tx. Rx: amoxicillin 500 mg tid 5 days 15 tabs.,2024-03-28 00:00:00.000,,,
+Fiji Med Health - Mana Island,Jason Derenalagi,2000-01-08,male,2025-03-24 21:35:01.896,,183.0,79.5,36.5,96.0,53.0,97.0,68.0,"CC: Dental pain
+Med hx: None
+
+HPI: Has dental pain for the last couple of weeks, worsening with eating
+
+Exam: L lateral incisor partial chipped/broken, exam otherwise non-focal
+
+Assessment/plan: Dental referral given, continue routine health maintenance",,,,
+Fiji Med Health - Mana Island,Jese Juinior,2022-08-25,male,2024-03-26 00:00:00.000,,,15.8,37.1,,85.0,99.0,,Seborrhea - given clotrinmazole; no other issues,,,,
+Fiji Med Health - Mana Island,Jesoni Taycilagi,2023-04-01,male,2025-03-24 00:05:33.558,,83.0,11.0,36.8,,114.0,99.0,,"Jesoni Taucilagi is correct name spelling. Febrile 36.8. Coughing with boil on the posterior scalp.
+
+HPI: Mild cough for 3-4 days with intermittent fever; also has a rash on the scalp
+
+Exam: mild rash on scalp and forehead, no erythema or purulence present; no respiratory distress, non-toxic appearing
+
+Assessment/plan: Likely mild dermatitis or seborrheic dermatitis, doubt tinea capitus. Encouraged symptomatic care and monitoring. Will give Tylenol as needed for fever/pain.
+
+Rx: Tylenol 160 mg q6h PRN fever/pain, total of 40 tablets (80 mg tabs) given",,,,
+Fiji Med Health - Mana Island,Joe Lewavari,1984-03-29,male,2025-03-25 22:29:44.272,,178.0,153.0,36.5,87.0,97.0,97.0,122.0,"Chief Complaint: tooth pain and swollen on L side for 2 days; has availability ONLY TODAY
+Hx: previous broken injury on L arm 
+NKA
+
+HPI: L sided facial swelling/dental pain, worsening over last 2 days; no current medications being taken
+
+Exam: L sided facial swelling, Multiple chipped teeth and dental caries of left upper and lower molars
+
+Assessment/plan: Emergent dental referral given",2025-03-25 22:53:02.696,"BP 142/110
+Large swelling around the left cheek that extends to the eye and the chin.","Ibuprofen 400mg - 8, Amoxicillin 500mg - 21, Paracetamol 500mg - 16",14
+Fiji Med Health - Mana Island,Joeli Monoveu,1997-12-02,male,2024-03-28 00:00:00.000,,167.0,67.5,36.9,117.0,90.0,97.0,78.0,"No pmhx. Here for an abscess. Pt has abscess to right arm pit. Pt does have overlying ringworm. Previously given clotrimazole cream. I/d completed, wound dressed. Wound care instructions given. Rx penadol 500 mg q6h prn pain",,,,
+Fiji Med Health - Mana Island,John Cakau,1972-03-01,male,2024-03-26 00:00:00.000,,141.0,83.5,36.3,107.0,103.0,99.0,50.0,,2024-03-28 00:00:00.000,,,
+Fiji Med Health - Mana Island,Jojiana Grace Nai,2018-07-17,female,2025-03-23 22:15:35.373,,126.0,24.9,36.7,,78.0,97.0,72.0,"Jojiana Grace Nai Sailasa is her full name (Jojiana Sailasa from last year has wrong birthday and gender but this is the same patient)
+HPI: no complaints today
+ROS negative 
+PE unremarkable 
+Plan: no need for f/u or referral today. Anticipatory guidance regarding hand hygiene and dental hygiene encouraged.",2025-03-24 04:59:24.887,"Flouride tx applied on upper and lower teeth.
+
+BP pre-procedure 96/64",,"K, J, I, S, L"
+Fiji Med Health - Mana Island,Jojiana Sailasa,2018-08-17,male,2024-03-26 00:00:00.000,,115.0,22.2,36.9,,90.0,98.0,,Check-up; no complaints;possible impetigo face;negative for scoliosis; polysporin topical bid for 1 week,,,,
+Fiji Med Health - Mana Island,Jojiana Sailasa,1993-02-15,female,2025-03-24 05:42:40.611,"Ciprofloxacin 500mg - 14, Ibuprofen  400mg - 30",169.0,90.6,36.8,92.0,73.0,99.0,68.0,"HPI: general checkup and lower abdominal pain. Rest makes pain better. Cold weather makes worse.describes pain as cramping. No constipation or diarrhea. Normal menses. 
+ROS positive for lower pelvic pain  
+PE unremarkable 
+Plan: differentials include ovarian cysts versus intestinal upset or gas 
+Will give Motrin prn and explained US might be beneficial if pain doesn’t improve or worsen
+3/25/25: Patient returned to clinic and endorses dysuria. UA ordered. 
+UA:
+- Leuk 70
+- Nitrites positive
+- protein 30+
+- 5-10 blood
+1. UTI: Cipro BID x7 days",2025-03-28 00:54:25.212,BP 108/64,,16
+Fiji Med Health - Mana Island,Jona Nabal Arua,2000-02-06,male,2024-03-26 00:00:00.000,,178.0,64.8,36.4,95.0,61.0,97.0,90.0,"Follow up for wound check --> lue burn wound, previously seen here at clinic. Wound appears clean and healing appropriatley. Redressed and will follow up for wound care tomorrow. 3/29/2024: wound f/u redressed, md looked at mouth as pt reported teeth pain. Dental 2 but no open appts today; able to get pt in for dental exam; needs extraction & we referred out for dental care; gave amox 500 mg q8h x 5 days.",2024-03-29 00:00:00.000,,,
+Fiji Med Health - Mana Island,Jona Naivalu,2011-04-19,male,2025-03-24 00:02:15.992,,155.0,40.9,37.0,,70.0,99.0,72.0,"Actual DOB 9/19/11. C/o front tooth pain and canker sore upper lip (front of tooth with pain).
+
+HPI: no complaints today
+ROS negative 
+PE:
+- cold sore with irregular borders under upper lip; HSV1 
+Plan: no need for f/u or referral today. Anticipatory guidance regarding hand hygiene and dental hygiene encouraged.",,,,
+Fiji Med Health - Mana Island,Jona Ratubuli,2020-10-02,male,2024-03-29 00:00:00.000,,88.0,12.9,37.0,,102.0,96.0,,Scabies. Reactive lymph nodes. Postcervical status post boil scalp 1.5cm x2. Scabies itch be gone treatment as directed.,,,,
+Fiji Med Health - Mana Island,Jonacani Biau,2019-05-22,male,2025-03-23 21:48:57.129,,111.0,20.22,37.1,,98.0,99.0,64.0,"HPI: No complaints, presenting for well-check exam
+Exam: Unremarkable, non-focal exam
+Assessment: No intervention or medications needed at this time. Continue routine health maintenance.",2025-03-25 19:56:18.938,Fluoride tx applied to upper and lower teeth,,30
+Fiji Med Health - Mana Island,Jonasa Tuicuvu,2012-07-14,male,2025-03-23 23:55:45.800,,153.0,40.9,36.7,,83.0,99.0,85.0,"CC: Pain (boil) L knee. Pain on upper L arm.
+
+HPI: Skin rash noted to LUE and BLE, itchy
+
+Exam: Circular rash with mild excoriations to LUE and BLE, no significant erythema 
+
+Assessment/Plan: Medication for suspected tinea corporis rash given, see below.
+
+Rx: Clotrimazole cream, apply q12 hrs for 4 weeks total, dispense 1 tube",,,,
+Fiji Med Health - Mana Island,Jone Laveta,2015-10-17,male,2025-03-23 23:12:03.474,,145.0,69.7,36.2,,100.0,98.0,72.0,"HPI: R lower tooth pain 
+ROS tooth pain  
+PE: R lower molar with significant erosion and cavity. Needs dental consult and abx course. 
+Plan: dental consult for extraction likely. Anticipatory guidance regarding hand hygiene and dental hygiene encouraged.",2024-03-27 00:00:00.000,"Fluoride applied to upper and lower
+
+BP 118/86",,"30, T"
+Fiji Med Health - Mana Island,Jone Sau,2019-09-06,female,2025-03-23 22:11:16.746,,115.0,21.3,36.8,,74.0,98.0,72.0,"HPI: Routine evaluation, presents for well-child exam. Has complaints of teeth problems.
+
+Exam: Multiple chipped teeth and dental caries throughout, no asymmetric facial swelling. Scalp partial alopecia from prior boils/rashes, healing well, no evidence of focal infection. Bilateral ear cerumen present. No additional focal exam findings. 
+
+Assessment: Educated on warm water use for ears, will refer to dentist. Routine health maintenance.",,,,
+Fiji Med Health - Mana Island,Josateki Tunisau,1992-06-02,male,2024-03-28 00:00:00.000,,178.0,80.2,36.1,95.0,81.0,98.0,71.0,"Tinea versicolor, dental abscess. Diflucan 150 mg x2 1 wk apart. Clotrimazole top qd. Dental 1 - double booked patient for 3/29 9 am - pt was a no show.",,,,
+Fiji Med Health - Mana Island,Josefine Talei,2012-12-15,female,2024-03-26 00:00:00.000,,138.5,32.8,37.1,,101.0,98.0,,"Here for r side oral pain and reports itching upper and lower extremeties. No meds, no med hx or knda. No rash present, good weight. Cracked tooth upon examination. Dentist referral. 3/26/2024 dentist appt: re evaluated teeth with tooth extraction & filling completed.",2024-03-26 00:00:00.000,,,
+Fiji Med Health - Mana Island,Joseph Luita,2002-04-30,male,2024-03-25 00:00:00.000,,169.0,67.6,36.6,95.0,65.0,98.0,58.0,"Upper back pain x 3 yrs, cough since last saturday. Allergic to almonds. No hx of h/a. Viral uri, lumbar strain, gave patient education and motrin 400 mg bid/prn #24",,,,
+Fiji Med Health - Mana Island,Josephine Talei,2015-12-15,female,2025-03-23 22:53:28.066,,146.0,37.3,36.7,,84.0,99.0,78.0,"HPI: Presents for well-child examination, no acute complaints
+
+Exam: Non-focal examination, no significant acute abnormalities
+
+Assessment/Plan: Continue routine health maintenance",2025-03-25 19:41:10.438,Fluoride tx applied to upper and lower teeth,,3
+Fiji Med Health - Mana Island,Josese Kasa,1968-12-26,male,2024-03-27 00:00:00.000,,181.0,69.8,36.4,170.0,81.0,95.0,70.0,"Hx of dm2, not on meds, here for wound check and ears. Ears clean bilaterally, no tm abnormalities. Low back pain likely chornic, no acute findings. R foot wound w/chronic ulcers, no infection overlying area. Counseled on diet meds for dm. Tylenol 500 mg 1-2 tab q6h prn pain",,,,
+Fiji Med Health - Mana Island,Joseva Sadrada,2000-01-01,male,2024-03-26 00:00:00.000,,180.0,86.7,36.5,141.0,96.0,95.0,88.0,"Here for too pain x 1 yr; multiple dental caries upon assessment. Also reports knee pain; and itchy when eats beef. Reports smoking and etoh. Education on smoking cessation & diet; gave ibuprofen 400 mg q6h prn pain #30. 3/27/2024: add returned to clinic for upper back pain; calf painsince yesterday, likely muscle strain. Also seen in dental -1 clinic on 3/27/2024.",2024-03-27 00:00:00.000,,,
+Fiji Med Health - Mana Island,Joseva Vunisa,1973-04-21,male,2025-03-24 06:37:06.896,,174.0,98.0,36.3,172.0,91.0,98.0,92.0,"DOB 10/28/76. Hx with HTN, DM, no meds, no known allergies. Past 
+R eye injury 4 years ago. Hit with rope. Concerns with vision changes, blurring.
+Will come later this week to check for reading glasses",,,,
+Fiji Med Health - Mana Island,Joseva Vunisa,1976-10-10,male,2025-03-25 05:11:48.364,,174.0,98.1,36.4,222.0,75.0,97.0,82.0,"Hx: saw physician yesterday and started metformin
+NKA",,,,
+Fiji Med Health - Mana Island,Josiphine Palei,2018-01-01,female,2024-03-26 00:00:00.000,,138.0,32.7,37.0,,85.0,98.0,,No pmhx presents for well check; pt has some ear wax in r. Ear; ear irrigation preferred; r. Ear irrigated,,,,
+Fiji Med Health - Mana Island,Jota Matal,2000-01-01,male,2024-03-27 00:00:00.000,,,,36.6,,,,,"Eval & seen in the dental clinic (not medical) hx of r upper tooth extraction, same pain now l upper side. Reports very painful began in the evening 2 days ago.",2024-03-27 00:00:00.000,,,
+Fiji Med Health - Mana Island,Jowela Daubitu,2014-02-12,male,2025-03-23 23:15:44.408,,138.0,36.5,36.5,,88.0,99.0,74.0,"CC: Coughing and skin check.
+
+HPI: Presents for well-child examination, has cough for a couple days, and recurrent skin rash to all extremities 
+
+Exam: Circular/wavy rash to all four extremities with severe excoriations to the lower extremities, some purulent discharge to the RLE with erythema
+
+Assessment/Plan: Possible tinea corporis vs scattered scabies infection; patient has tried a cream from the mainland, but notes it has returned. Will give the following medications:
+
+- Ivermectin 6 mg x1 dose given in the clinic
+- Clotrimazole cream to be given q12 hrs x4 weeks total - dispense 1 tube
+- Cephalexin 500 mg TID x7 days, dispense 21 tablets
+- Benadryl 25 mg q6h PRN for itching, 15 tablets dispensed
+- Fluconazole 150 mg a day x7 days, dispense 7 tablets",,,,
+Fiji Med Health - Mana Island,Joy Qoro,2023-11-26,female,2025-03-26 07:00:32.681,,,11.6,36.6,,,,,,2025-03-26 06:33:10.765,Exam and fluroide,,
+Fiji Med Health - Mana Island,Junior Turakaduadua,2022-09-16,male,2024-03-28 00:00:00.000,,74.0,9.3,36.6,,131.0,99.0,,Here for wellcheck. Mild cerumen on right ear. No additional acute findings. Lue with improving rash. Otherwise healthy and feeding well.,,,,
+Fiji Med Health - Mana Island,Kalesh Chand,1974-05-30,male,2025-03-26 07:21:24.492,,174.0,83.3,36.1,196.0,75.0,97.0,86.0,"Chief Complain: R knee pain from soccer injury 3 years where he felt it pop; Unable to see out of R eye for the last 6 months 
+Hx: eyedrops medication 
+NKA
+
+HPI: Has chronic R knee pain after soccer accident; R vision loss for 6 months after a nail scratched his eye. He was seen on the mainland, given drops, but later told to discontinue, and hasn’t followed up since. 
+
+Exam: Corneal clouding and chronic abrasion to R eye, vision is 20/200 in the R eye, no focal findings on R knee exam
+
+Assessment/plan: Referral to mainland for ophthalmology evaluation; Motrin as needed for R knee pain, likely 2/2 to arthritis",,,,
+Fiji Med Health - Mana Island,Katty Ratu,2005-05-10,female,2024-03-28 00:00:00.000,,164.0,80.1,36.8,79.0,78.0,98.0,82.0,"Rash on face and arms for 1 year or more. Was given a topical cream and it made it worse, thinks it was cortisone. Given flucanazole 150 mg po once weekly for 4 weeks",,,,
+Fiji Med Health - Mana Island,Kelera Duvula,1993-10-12,female,2025-03-26 05:44:03.772,,169.0,93.4,36.5,101.0,91.0,98.0,80.0,"Chief Complaint: pain in abdomen/gastric after eating spicy, teeth pain in upper left molar
+Hx: none
+NKA
+
+HPI: Has intermittent epigastric pain, worse with spicy food intake; Has pain to left upper 2nd molar/wisdom tooth
+
+Exam: L upper wisdom tooth with severe cavity and erosion of the tooth; otherwise non-focal exam
+
+Assessment/plan: Omeprazole x2 weeks for suspected gastritis; counseled on diet modification and healthy eating for blood pressure management as well;",,,,
+Fiji Med Health - Mana Island,Kelevi Vakarusa,2000-06-24,male,2024-03-24 00:00:00.000,,179.0,70.6,36.7,74.0,86.0,97.0,86.0,"Here for toothache. No meds, no pmh, nkda. Patient reports bilateral toothpain started recently. Denies any bleeding or discharge. 3/26/2024: dental clinic fillings completed.",2024-03-26 00:00:00.000,,,
+Fiji Med Health - Mana Island,Kini Bokunaqiwa,1989-07-05,male,2024-03-28 00:00:00.000,,172.0,119.4,36.5,99.0,79.0,97.0,99.0,No pmhx. Here for itchy legs. Appears to have mutiple insect bites with open wounds. Benadryl given for prn use. Advised/counseled on lifestyle changes and weight loss.,,,,
+Fiji Med Health - Mana Island,Kini Dromunasiga,1970-03-31,female,2024-03-25 00:00:00.000,,,,36.4,322.0,75.0,97.0,82.0,"Uncontonrolled diabetes, start metformin 500 mg bid, needs vision referral",,,,
+Fiji Med Health - Mana Island,Kini Sova,1963-01-06,male,2025-03-25 07:00:05.767,Ibuprofen 400 mg - 20,171.0,81.1,36.1,117.0,71.0,97.0,82.0,"Chief Complaint: clear productive cough, headaches, and night sweats for 1 weeks
+Hx: none, no medications 
+NKA
+
+HPI: Has sinus congestion and pain x1 week, productive cough associated, has tried paracetamol without much relief; of note, vision has been decreased in R eye for 30 years from prior surgery
+
+Exam: Non-focal exam, no rales or wheezing bilaterally
+
+Assessment/plan: Motrin as needed in addition to paracetamol, likely viral etiology of cough, no focal crackles on exam; reading glasses given",,,,
+Fiji Med Health - Mana Island,Kinivuwai Lawaniyasana,1991-06-07,male,2025-03-27 05:34:30.981,,178.0,83.25,36.3,314.0,96.0,96.0,98.0,"Chief Complaint: difficulty breathing, feels dizzy when laying down sometimes
+Hx: Broke arm 2x in 2024, previous hospital admittance for difficulty breathing and injured rubs in March 2024
+Social hx: No smoking, no drinking
+Medication: bangein 
+NKA
+
+Last meal at 1400 - BS 319
+
+HPI: Has Intermittent difficulty breathing, worse with laying down, no current dyspnea or chest pain; had a prior injury with broken ribs, and now notes worsening pain with laying flat, has associated difficulty sleeping; Vision loss present for 6 months after a prior injury to both eyes
+
+Exam: Mild TTP of the ribs bilaterally; no rales/wheezing bilaterally; no resp distress; eyes grossly unremarkable 
+
+Assessment/plan: 
+- Start Metformin 500 mg BID for likely new onset diabetes
+- Paracetamol 500 mg q6h PRN pain
+- Ophthalmology/optometry referral for eye injury with subacute vision loss
+- Encouraged on diet/exercise modification for HBP and likely new DM
+- Encouraged to follow up on the mainland for multiple medical problems",,,,
+Fiji Med Health - Mana Island,Kolinio Euakilau,2018-03-01,male,2025-03-23 22:25:16.074,,132.0,29.0,36.9,,112.0,99.0,80.0,"Full name is Kolinio Fox Euakilau
+
+HPI: Presents for well-child exam, no acute complaints
+
+Exam: Multiple dental caries, non-focal exam otherwise
+
+Assessment: Dental referral, continue routine health maintenance otherwise",2024-03-26 00:00:00.000,Fluoride tx applied to upper and lower teeth,,"A, B"
+Fiji Med Health - Mana Island,Laisenia Dan Drotini,1988-06-14,male,2025-03-25 06:26:34.892,ibuprofen  400mg - 30,176.0,98.7,36.4,78.0,78.0,98.0,82.0,"Hx: none, no medications
+NKA
+HPI:
+#R jaw 4yrs ago after rugby injury. When cold outside, pain returns. Previous rugby injury, has pain in R jaw up to R temple sometimes when moving or when eating something cold - pain is tolerable 
+Plan: 
+1. R jaw pain: ibuprofen prn pain and cold packs to area prn. Likely early arthritis in joint due to injury.",,,,
+Fiji Med Health - Mana Island,Laisiasa Namedre,1997-08-12,male,2025-03-25 21:11:26.851,ibuprofen 400mg - 20,188.0,92.3,36.7,82.0,69.0,97.0,82.0,"Chief Complaint: general checkup, would like dental 
+Hx: smoker, 1 pack a day
+HPI: Pain to molar R lower, especially when eating. Has not taken any medication for pain. 
+NKA
+PE: 
+Heart: RRR, No GMR
+Lungs: CTA, no increased WOB
+Dental: R lower molar with cracked/missing tooth
+Plan:
+1. Smoker: smoking cessation advised
+2. R lower molar with cracked/missing tooth: dental appt made for patient Thursday at 3pm",2025-03-27 03:07:13.744,BP 128/82,"Paracetamol 500mg - 16, Ibuprofen 400mg - 8",31
+Fiji Med Health - Mana Island,Lavenia Turaganiqali,1996-02-14,female,2025-03-25 05:21:34.674,Ibuprofen 200mg - 30,168.0,81.3,36.8,91.0,101.0,99.0,98.0,"NKA
+Sx ectopic pregnancy 12/24
+No menses since then
+12/24–given depo x 1 
+
+B knee pain
+B ankle pain",,,,
+Fiji Med Health - Mana Island,Leba Tuivanua,2023-10-19,female,2025-03-24 05:00:57.723,Prednisone 10 mg - 3,90.0,13.3,36.8,,137.0,97.0,,"DOB 10/5/22. 
+
+HPI: no complaints today
+ROS:
+- wheezing bilateral lungs 
+PE unremarkable 
+Plan: no need for f/u or referral today. Anticipatory guidance regarding hand hygiene and dental hygiene encouraged. Education provided on worsening s/s.",,,,
+Fiji Med Health - Mana Island,Lemeki Nargeo,1959-03-15,male,2025-03-24 21:46:13.802,,173.0,89.6,36.5,,,,,,,,,
+Fiji Med Health - Mana Island,Lemeki Sukanabola,2012-09-25,male,2025-03-24 21:45:40.234,,164.0,52.9,36.5,,83.0,99.0,72.0,"CC: Well-child examination
+Med Hx: None
+
+HPI: Presents for well-child examination, no current complaints or concerns
+
+Exam: Non-focal examination, teeth appear healthy 
+
+Assessment/plan: Continue routine health maintenance",2025-03-25 19:54:09.387,Fluoride applied to upper and lower,,
+Fiji Med Health - Mana Island,Letia Rawalai,1985-12-05,male,2024-03-27 00:00:00.000,,153.0,133.9,36.1,81.0,88.0,98.0,94.0,Hx of htn here for well check. Not on meds currently working on lifestyle changes. After discussion will work on continuin lifestyle medications after counseling.,,,,
+Fiji Med Health - Mana Island,Lidia Nasaucoko,1985-09-28,female,2025-03-25 22:00:35.600,Ibuprofen 400mg - 30,164.0,82.0,37.6,85.0,65.0,96.0,90.0,"Headaches
+LBP x 1 mo
+No PMH, no meds",,,,
+Fiji Med Health - Mana Island,Lilian Vakete,2017-09-05,female,2025-03-23 22:38:42.561,,133.0,28.6,36.8,,93.0,100.0,80.0,"Full name Lilian Victoria Vakete
+
+HPI: Presents for well-child examination, no acute complaints
+
+Exam: Cerumen present bilaterally in ears, non-focal examination otherwise
+
+Assessment: Continue routine health maintenance",2025-03-25 19:31:05.029,Fluoride tx applied to upper and lower teeth,,18
+Fiji Med Health - Mana Island,Lilieta Ratu Bokonqiwa,1990-11-26,female,2024-03-26 00:00:00.000,,164.0,124.3,36.1,98.0,81.0,97.0,76.0,"No primary hx, here for nausea and abd. Pain. Pt. Has s/sx of likely gastronephritis only w/ nausea no vomiting, pecid give w/ education on likely gastritis, no fecal ttp on exam, encouraged hydration and ginger tea for nausea",,,,
+Fiji Med Health - Mana Island,Lisa Verma,1981-05-03,female,2025-03-25 05:19:32.379,"Loratadine 10 mg - 30, Diphenhydramine 25 mg - 30",160.0,62.55,36.7,96.0,75.0,99.0,94.0,"Sinus pain congestion x1yr. Hx of high HTN. Ran out meds. Abdominal pain with diarrhea happens once or twice a week
+
+HPI: Has ongoing allergy symptoms and sinus congestion; medications given last year which helped briefly, now worse again; Hx of HTN, is scheduled to go to the mainland in 2 days to pick up refill on medication for HTN; Has occasional symptoms of diarrhea/abd pain with eating certain foods, possibly with dairy products; has some skin reaction to eating pork, no other signs/symptoms of anaphylaxis
+
+Exam: No significant focal findings, unremarkable exam overall
+
+Assessment/plan: Will give loratadine for likely seasonal allergies, diphenhydramine for allergic reaction symptoms from any accidental pork intake; counseled on healthy diet/exercise; will defer medication for HTN until patient goes to the mainland in 2 days for regular Rx.",,,,
+Fiji Med Health - Mana Island,Litia Nasaugoko,1985-09-28,female,2024-03-26 00:00:00.000,,168.0,82.8,37.0,98.0,80.0,96.0,94.0,Opth refer,,,,
+Fiji Med Health - Mana Island,Livai Naqera,1956-02-19,male,2024-03-25 00:00:00.000,,172.0,90.2,36.9,206.0,74.0,95.0,78.0,"Uncontrolled diabetes, visual dist, metformin 500g qd #30, ophth ref",,,,
+Fiji Med Health - Mana Island,Loata Wainiqoio,2012-09-13,female,2024-03-27 00:00:00.000,,133.0,26.1,37.2,,103.0,97.0,,Pmh asthma inhaler prn. Pain in both ears. Right front tooth. Normal limit screening (-) scoliosis. Asthmatic bronchitis. Wheezing bilateral. Good air exchange. Rx: amoxicill,,,,
+Fiji Med Health - Mana Island,Lolohea Turagakula,1982-07-15,female,2025-03-25 21:15:47.107,Metformin 500 mg - 60,172.0,162.0,36.6,118.0,,,87.0,"Blood sugar recheck
+
+03/26 BS recheck: 118
+Plan: 
+1. Suspect new onset DM or prediabetes due to elevated FBS. Referral form given to f/u on mainland for more testing and management. 
+Start metformin 500mg daily, #60.",,,,
+Fiji Med Health - Mana Island,Loraini Mataiwai,1980-03-08,female,2025-03-23 22:31:08.751,,166.0,126.0,36.6,101.0,85.0,98.0,90.0,HTN—on metoprolol,,,,
+Fiji Med Health - Mana Island,Lubiana Tinaisiwa,2021-01-13,female,2024-03-24 00:00:00.000,,98.0,16.7,36.6,,81.0,100.0,,Boil back of head. Topical antibiotics apply twice a day to area.,,,,
+Fiji Med Health - Mana Island,Lucy Kafoa,2021-01-13,female,2025-03-24 23:45:39.051,,101.0,20.4,36.6,,107.0,96.0,,"HPI: General checkup, no complaints today
+ROS: Negative for all systems
+PE: 
+Gen: Alert and oriented, non-toxic, NAD
+HEENT: Ear canals free of erythema and inflammation bilaterally, no discharge. Bilateral TM gray, normal landmarks. Oropharynx free of erythema, no tonsillar hypertrophy. No cervical lymphadenopathy. 
+Heart: RRR, No GMR
+Lungs: No accessory muscle use. CTA in all lung fields.
+Abdomen: Soft, non-tender
+Dental: Fair dentition.
+Plan: 
+Age appropriate anticipatory guidance given. Toothbrush given. 
+RX: none",,,,
+Fiji Med Health - Mana Island,Lucy Vata,1995-07-08,female,2025-03-25 00:27:04.106,,158.0,60.9,36.2,119.0,90.0,99.0,68.0,"Note: Lucy said she came to the clinic last year but we saw no record of her.
+CC: Skin assessment, concerns with rash all over face. 1-2 weeks. Thinks maybe sun and ocean related.
+Med hx: None
+
+HPI: Intermittent rash to the face/forehead, worsening after ocean exposure, develops pustules occasionally, none currently
+
+Exam: Evidence of mild scarring, to forehead, no active infection, no erythema or drainage
+
+Assessment/plan: Triple abx ointment as needed to forehead for breakouts of skin infection; no evidence of active infection; prenatal vitamins given.",,,,
+Fiji Med Health - Mana Island,Luisa Nacewa,1985-10-05,female,2025-03-25 06:05:58.251,"Bactrim 1 tab - 20, Prednisone 10mg - 10",169.0,168.0,36.6,122.0,84.0,97.0,98.0,"Concerns with productive cough for x3 weeks. PND.  Completed antibiotic.
+
+High BP, no dx, will rtc for recheck. 
+
+Childhood asthma
+Wheezing mildly on exam-given prednisone x 5 days.
+
+Open wound RLE-seen in hospital-has dressings at home and powder to use. 
+Redressed and given antibiotic to complete.",,,,
+Fiji Med Health - Mana Island,Luisa Togatia,1992-11-17,female,2025-03-25 05:48:10.682,,169.5,99.2,36.2,175.0,98.0,77.0,72.0,"Chief Complaint: general checkup,
+Dental pain lower left occasional
+Hx: none, no medications
+Allergy: eggplant
+High sugar—will  come back and recheck 
+2019 miscarriage wants to get pregnant",,,,
+Fiji Med Health - Mana Island,Luka Cavora,1975-12-07,male,2025-03-25 21:58:11.288,,173.0,80.2,36.7,111.0,92.0,97.0,82.0,"Chief Complaint: top left molar pain, ringworm on back 
+Hx: Fijian medicine from plant/bush 
+NKA
+
+HPI: Has a rash in the upper buttocks cleft, present for many months, itchy; also has left upper molar pain, worse with eating
+
+Exam: Poor dentition, has some yellow discoloration of left 1st molar, no obvious crack/chips present; rash in upper gluteal cleft, no significant erythema
+
+Assessment/plan: Clotrimazole cream to use for likely ringworm rash; Paracetamol for pain as needed; dental referral given",,,,
+Fiji Med Health - Mana Island,Luke Koroitaiti,2016-05-29,male,2025-03-23 22:50:50.162,,132.0,30.7,36.8,,68.0,97.0,80.0,"Name is Luke Koroitaiti (correct spelling)
+
+HPI: Presents for well-child examination, no acute complaints
+
+Exam: Dental caries present, non-focal examination otherwise
+
+Assessment/Plan: Continue routine health maintenance, dental referral",2025-03-25 19:37:15.349,"Fluoride applied to upper and lower
+
+BP pre procedure 118/78",,"B, A"
+Fiji Med Health - Mana Island,Luke Koroitaiti,1990-08-06,male,2025-03-24 05:13:42.979,,189.0,99.4,36.5,100.0,84.0,98.0,76.0,"Tooth ache Left upper back tooth painful x 2 wks.
+Etoh weekends
+Tob 
+Kava",2025-03-24 05:58:16.130,,"Amoxicillin 500 - 21, Acetaminophen  500 - 16, Ibuprofen 400 - 8","13, 15"
+Fiji Med Health - Mana Island,Maca Momoivalu,1970-03-22,female,2025-03-24 07:12:23.250,Ibuprofen 400mg - 30,170.0,85.1,36.6,74.0,69.0,97.0,118.0,"C/o blurry vision last 2 years, chest pain upon intake of breath. Began 8 yrs ago when punched in chest by husband.
+Cracked painful tooth R upper x2 mos 
+Plan: 
+1. Elevated BPrecheck BP on Wednesday. If BP still elevated will start antihypertensive then. 
+2. Cracked tooth: Refer to dentist. AM appt made by Sandi 
+3. Costochindritis:  Ibuprofen prn pain",2025-03-25 08:46:14.003,Bp: 148/96,"Ibuprofen 400 - 8, Acetaminophen 500 - 16",5
+Fiji Med Health - Mana Island,Maikeli Bogidua,2011-04-26,male,2024-03-27 00:00:00.000,,150.0,35.8,36.9,,79.0,98.0,,"Wcc; no pmh, no medications at home. Wnl, no complaints.",,,,
+Fiji Med Health - Mana Island,Makelesi Ralagi,1996-05-24,female,2025-03-25 05:15:46.910,ibuprofen  400mg - 30,174.0,83.5,36.7,97.0,85.0,99.0,76.0,"HPI: Pain on outside of legs bilateral for 3 months ( sometimes turns the legs red with tenderness)
+PE: Bilateral heels mildly ttp. No erythema or heat. No swelling.
+Plan:
+1. Plantar fascitis. Showed patient stretching exercises for feet and cold therapy recommended. Ibuprofen prn pain. 
+If able, get good supportive shoe.",,,,
+Fiji Med Health - Mana Island,Makereta Toga,1966-04-05,female,2024-03-28 00:00:00.000,,174.0,104.4,36.5,126.0,94.0,98.0,94.0,"No pmhx. Here for blurry vision and cough. Blurry vision. Not correctly wearing glasses. Low back pain likely chronic. Cough with chest pain, likely viral syndrome , doubt. Htn counseled on lifestyle changes. Will defer meds for now.",,,,
+Fiji Med Health - Mana Island,Makereta Tubailagi,1994-07-06,female,2025-03-26 07:05:17.048,"Paracetamol 500mg - 30, calcium carbonate 500mg - 30, prenatal vitamin 1 tablet - 180",167.0,86.3,36.3,85.0,82.0,98.0,76.0,"NKA
+HPI: acid reflux when going to bed; dry cough and sore throat for the last week. Also c/o headaches with numbness on L side of body (sometimes R side), received medication last year which helped but she ran out; no medications currentlyHA began after pregnancy 1 year ago. PCM and ibuprofen received last year help with HA. No aura. Twice a week is usual. Sore throat x1 week with cough and nasal congestion. Heartburn nightly while has been pregnant. 
+PE: Head to toe exam normal, neuro exam unremarkable
+Plan: 
+1. Heartburn: calcium carbonate prn, dietary changes discussed
+2. Migraine versus other type of HA: PCM prn pain, recommend further workup in mainland
+3. Viral URI: PCM prn pain, supportive care, rest
+4. Pregnancy: prenatal vitamin 1 tablet daily. Fetal US performed by Dr Mark: Adequate amniotic fluid, good fetal heart tones.",,,,
+Fiji Med Health - Mana Island,Malakai Mateo,1958-02-20,male,2024-03-24 00:00:00.000,,174.0,99.5,36.9,105.0,52.0,96.0,101.0,"Back pain while sitting, no meals @ home, allergy to pupo leaves, htn pain control, lumbar strain, psp knee, losartan 50 mg po qd #30, tylenol, 500 g tid prn 20, f/u 5 days",,,,
+Fiji Med Health - Mana Island,Malakai Mateo,2019-03-25,male,2025-03-23 22:00:02.625,,123.0,22.3,36.8,,90.0,99.0,70.0,"HPI: no complaints today
+ROS negative 
+PE unremarkabe Except noted eczema to outer ear canal and ear. 
+Plan: no need for f/u or referral today. Anticipatory guidance regarding hand hygiene and dental hygiene encouraged.use coconut oil for eczema",2025-03-25 19:18:55.688,Fluoride tx applied to upper and lower teeth.,,"L, S"
+Fiji Med Health - Mana Island,Malakai Turagakula,1975-06-24,male,2025-03-24 21:56:29.942,,180.0,128.5,36.3,105.0,82.0,98.0,92.0,"CC: Tooth ache, recurrent leg edema
+Med Hx: Venous stasis ulcer to R leg, allergy to broccoli
+
+HPI: Presents primarily for tooth ache, has recurrent edema from prior wound to RLE. Compression socks have been helping a lot, no current edema or wound drainage from the RLE wound, ulcer is healing well.
+
+Exam: Scarring to LLE, small ulcer to RLE, no surrounding erythema or purulent wound drainage; no significant edema to BLE; multiple dental caries to R upper and lower molars
+
+Assessment/plan: Continue routine health maintenance, continue compression socks usage; referral to dentist",2025-03-25 05:54:47.753,BP: 144/80,"Acetaminophen 500 - 16, Ibuprofen 400 - 8, Amoxicillin 500 - 21","5, 6, 3, 4"
+Fiji Med Health - Mana Island,Maleli Veidreyaki,2018-01-01,male,2024-03-26 00:00:00.000,,118.0,25.1,36.7,40.0,97.0,99.0,,Check up; screening; negative scoliosis,,,,
+Fiji Med Health - Mana Island,Malelili Ramakala,1963-02-16,male,2025-03-27 06:15:13.095,"Losartan 50 mg - 60, Omeprazole 40 mg - 28",180.0,106.4,36.1,67.0,71.0,97.0,96.0,"Chief Complaint: gastric RUQ worsens with spicy food, explained he can’t eat curry or daal; blurry vision in L eye
+Hx: none, no medications
+NKA
+
+HPI: RUQ/epigastric pain, worse with certain foods; also has painless blurry vision in the left eye, which has been present for multiple months; Was previously given Pepcid, which helped with epigastric pain; not on HTN meds
+
+Exam: Non-focal exam, no epigastric pain; POCUS of RUQ showed a gallbladder without obvious stones;
+
+Assessment/plan: 
+- Repeat BP in clinic elevated at 148/92, will start Losartan 50 mg qdaily
+- Omeprazole 40 mg daily for likely gastritis, doubt gallbladder pathology
+- Encouraged healthy diet modification, follow up on mainland for optometry evaluation;",,,,
+Fiji Med Health - Mana Island,Manasa Vuetinatotoka,1965-04-13,male,2024-03-27 00:00:00.000,,,,36.7,101.0,91.0,95.0,110.0,Lipoma eval; unable to remove at this time. Sent referral out for general surgeron. Consulted on bp management and control.,,,,
+Fiji Med Health - Mana Island,Mareca Wesele,1973-03-23,female,2025-03-23 22:36:28.666,Metoprolol 25mg - 90,181.0,108.0,36.3,92.0,74.0,99.0,96.0,"HTN-not on meds
+Near sighted",2024-03-29 00:00:00.000,,,
+Fiji Med Health - Mana Island,Mareta Ratubuli,2017-01-20,female,2025-03-23 22:30:52.860,,126.0,25.1,36.6,,99.0,99.0,80.0,"HPI:C/o pain on chin and R elbow.
+PE: multiple dental carries. Several insect bites to R elbow and chin that have minor secondary infection.  
+Plan: triple antibiotic ointment to affected areas x10 days and prn 
+Rx: triple antibiotic ointment 1 application TAA x10 days
+Dispensed 1 tube 
+Anticipatory guidance regarding hand hygiene and dental hygiene encouraged.",2025-03-25 19:33:14.861,Fluoride tx applied to upper and lower teeth,,30
+Fiji Med Health - Mana Island,Mariana Miliana,1984-12-18,female,2025-03-25 21:27:44.284,,167.0,85.2,36.3,,82.0,95.0,70.0,"HPI: Returning today for abd check, has intermittent pain to the L abdomen, radiating down to the LLQ and leg; no current pain
+
+Exam: Non-focal exam; 
+Bedside POCUS completed: no hydronephrosis bilaterally, bladder normal, spleen/liver unremarkable, IVC not dilated, no evidence of pleural effusion bilaterally
+
+Assessment/plan: Unremarkable US exam of abdomen, no constant pain, low suspicion for acute intra-abdominal pathology; Motrin as needed for pain, return to clinic if worsening pain in next 1-2 days",,,,
+Fiji Med Health - Mana Island,Marica Tavakuru,1991-12-27,female,2025-03-25 05:28:36.043,ibuprofen 400mg - 20,174.0,123.6,36.2,128.0,96.0,99.0,86.0,"Chief Complaint: general checkup 
+Hx: anemia 
+NKA
+HPI: General checkup
+PE: 
+Gen: Alert and oriented, non-toxic, NAD
+HEENT: Ear canals free of erythema and inflammation bilaterally, no discharge. Bilateral TM gray, normal landmarks. Oropharynx free of erythema, no tonsillar hypertrophy. No cervical lymphadenopathy. 
+Heart: RRR, No GMR
+Lungs: No accessory muscle use. CTA in all lung fields.
+Abdomen: Soft, non-tender
+Dental: Good dentition 
+Plan: 
+1. Costochondritis: ibuprofen prn pain",2024-03-28 00:00:00.000,Exam and filling,,7
+Fiji Med Health - Mana Island,Mary Turaga,1981-01-01,female,2024-03-26 00:00:00.000,,,86.9,36.7,92.0,82.0,98.0,82.0,Goal wt. 70kg; no dental or visual issues; menstrual crams; 0 birth control; l knee,,,,
+Fiji Med Health - Mana Island,Mata,2000-01-01,male,2024-03-26 00:00:00.000,,122.0,23.3,36.7,,91.0,100.0,,Check-up; no complaints; negative for scoliosis; no exam,,,,
+Fiji Med Health - Mana Island,Matila Sewale,1984-09-14,female,2024-03-26 00:00:00.000,,147.0,79.0,36.4,133.0,95.0,96.0,98.0,Opth refer,,,,
+Fiji Med Health - Mana Island,Max Boutevin,1993-11-01,male,2024-03-27 00:00:00.000,,178.0,125.1,36.7,93.0,81.0,98.0,90.0,"No past meddical hx, here for wound check. Recent cellulitis now improving after recent antibiotics. No new fevers, improving overall, leg with minimal erythema. No indication for new antibiotic therapy.",,,,
+Fiji Med Health - Mana Island,Melaia Qoro,2022-11-23,female,2025-03-24 22:51:08.797,"bacitracin ointment  1 application - 1, Acetaminophen 160mg/5ml - 120",90.0,11.95,36.6,,135.0,99.0,,"HPI: 
+#: mild productive cough (color clear yellow) x1 weeks, unchanged since last week. +nasal congestion. EAting and drinking well. Urinating and stooling normal. No pmhx. No fever. 
+#Red and irritated skin on R foot and along belt line (waist). Has used antibiotic ointment in past that works well for this. 
+Hx: none
+NKA
+PE: 
+Gen: Alert and oriented, non-toxic, NAD
+HEENT: Ear canals free of erythema and inflammation bilaterally, no discharge. Bilateral TM gray, normal landmarks. Oropharynx free of erythema, no tonsillar hypertrophy. No cervical lymphadenopathy. 
+Heart: RRR, No GMR
+Lungs: No accessory muscle use. CTA in all lung fields.
+Abdomen: Soft, non-tender
+Dental: Good dentition 
+Plan: 
+1. Viral URI. Supportive care discussed. Acetaminophen prn.
+2. Insect(mite?) bites. Bacitracin ointment prn. No secondary infection noted at this time.",,,,
+Fiji Med Health - Mana Island,Melea Waqa,1960-01-12,female,2025-03-25 05:13:56.230,"Metformin 500mg - 60, Losartan 50mg - 30",162.0,86.3,36.7,223.0,80.0,98.0,78.0,"Pt seen in clinic yesterday—see vitals from that date.
+DM
+HTN
+Requesting meds today",,,,
+Fiji Med Health - Mana Island,Melea Waqanibau,2000-01-01,female,2024-03-26 00:00:00.000,,116.0,19.7,37.2,115.0,115.0,99.0,,"Left arm pain, reports takes medication but unsure why, also replies yes to all questions unsure if patient understands the questions. Screening exam completed, negative for scoliosis, arm nwl, poor dentation.",2024-03-27 00:00:00.000,,,
+Fiji Med Health - Mana Island,Mere Biu,1955-01-29,female,2025-03-24 22:09:43.549,Paracetamol  500mg - 30,156.0,81.6,35.5,,,,,,2024-03-27 00:00:00.000,"Exam and filling
+BP 144/92",,9
+Fiji Med Health - Mana Island,Mere Kalisi,1977-06-30,female,2024-03-26 00:00:00.000,,164.0,97.7,36.1,109.0,74.0,96.0,92.0,Borderline htn; pt ed given; tinea; wear vision; clotrimazole qd x14,,,,
+Fiji Med Health - Mana Island,Mere Kuwe,1995-07-05,female,2025-03-25 05:42:43.762,Ibuprofen 400mg - 30,161.5,80.5,36.5,107.0,88.0,98.0,86.0,"Chief Complaint: pain in mouth, hurts when she eats—dx with TMJ-given ibuprofen. Prevention reviewed
+Hx: none
+NKA",,,,
+Fiji Med Health - Mana Island,Mere Qai,1977-06-30,female,2025-03-24 07:26:15.157,,163.0,99.2,36.2,129.0,83.0,97.0,90.0,"C/ o L ear pain x 4days
+rash on arms bilaterally.  
+No hx, no meds.
+
+Will return tomorrow to recheck sugar and blood pressure
+- New sugar read is 129, BP 140/90",,,,
+Fiji Med Health - Mana Island,Mere Ratu Naivalu,1992-04-01,female,2025-03-26 06:08:35.341,Ibuprofen 400mg - 30,166.0,101.6,36.2,113.0,77.0,99.0,90.0,"Chief Complaint: headache, blurry vision, dizziness
+Hx: none, no medications
+NKA
+Upper left tooth",,,,
+Fiji Med Health - Mana Island,Mere Siana,2019-03-20,male,2024-03-27 00:00:00.000,,109.0,17.7,36.9,,123.0,98.0,,"Skin rash x2 months; cough, fever, cold sx x1 week with green mucus. No current medications or no pmh. Tinea versicolor, gave ivermectin 1/2 tab po now then repeat in 1 week (gave 2 tabs to repeat if rash has not resovled) for uri; tylenol 170 mg po bid prn fever.",,,,
+Fiji Med Health - Mana Island,Mereani Ravusou,2022-07-21,female,2025-03-24 00:07:33.374,,90.0,,37.5,,151.0,95.0,,"Mom has concerns with coughing.
+Ex x 1-2 days
+
+HPI: Cough x1 day; mother says baby has diaphoresis and mucus in nose 
+ROS: 
+Mucus in bilateral nostrils 
+Cough
+Diaphoresis  
+PE: unremarkable 
+Plan: no need for f/u or referral today. Educated on worsening s/s.",,,,
+Fiji Med Health - Mana Island,Mereani Tuivanua,2023-10-19,female,2025-03-24 05:02:14.301,,68.0,7.7,36.6,,,,,"DOB 10/19/24. Concerns with coughing and runny nose. Productive cough, sweating .",,,,
+Fiji Med Health - Mana Island,Mereani Varasikete,2003-04-02,female,2025-03-27 03:33:56.417,,163.0,70.6,36.7,65.0,85.0,97.0,70.0,"Patient has requested a dental visit. She reports pain in her mouth with eating and when the weather is cooler. Patient states that she last had food at 10am. Cracked back lower right tooth.
+Just starting college on main land",2025-03-27 03:37:32.864,"Patient reports pain with eating and when the weather is cooler. Right lower and left upper are the locations of concern.
+
+112/70","Amoxicillin 500mg - 21, Paracetamol 500mg - 16, Ibuprofen 400mg - 8",30
+Fiji Med Health - Mana Island,Mereini Tauyavu,1968-10-21,female,2025-03-26 07:44:06.994,,164.0,58.6,36.4,279.0,83.0,92.0,90.0,"HPI: F/u DM. Takes metformin 1000mg BID, started one month ago. sees MD on mainland, last seen 1 month ago. Has f/u appt 3 months.
+Would like reading glasses. 
+Given reading glasses today. Discussed dietary changes to reduce blood glucose levels, keep f/u appt on mainland as scheduled.",,,,
+Fiji Med Health - Mana Island,Merela Tavailagi,2011-04-25,female,2024-03-27 00:00:00.000,,166.0,51.4,37.0,,102.0,98.0,,"Dry cough x1 week with fever x1 last week, resolving uri; negative scoliosis screening; l ear cerumen removal",,,,
+Fiji Med Health - Mana Island,Merelesita Civa,1999-05-08,female,2024-03-25 00:00:00.000,,,,36.6,148.0,61.0,98.0,58.0,"Dental pain, chronic dental carries, cracked tooth, tinea, given clotrimazole bid 2wks, need dental consult: seen 3/27 & 3/29 2024 for exam, fillings, denture/composite building.",2024-03-29 00:00:00.000,,,
+Fiji Med Health - Mana Island,Mereseini Grace,2021-01-23,female,2025-03-25 22:35:20.024,,102.0,16.4,36.7,,100.0,98.0,62.0,"Rash —rx with coconut oil and herbs—scabies dx
+
+Fever/congrstion-improving",,,,
+Fiji Med Health - Mana Island,Mereseini Ledua,1984-09-07,female,2025-03-24 07:17:06.746,Loratadine  10mg - 30,163.0,83.4,36.7,100.0,73.0,96.0,86.0,"Pmhx:
+No hx, no meds. 
+Cc: 
+1. Skin assessment, itching from rash all 4 extremities x2 weeks. Began when she moved to Mana island. No new lotions or soaps. 
+2. Concerned with blurry vision for distance.
+
+PE: no rash, skin lesions, 
+Plan: 
+1. Allergic contact dermatitis 
+Loratadine 10 mg daily prn itching",,,,
+Fiji Med Health - Mana Island,Mereseini Sivo,1996-03-23,female,2024-03-28 00:00:00.000,,,,36.6,,,,,"Pelvic pain after intercourse, family plannin, no h/o papsmear. Referral to see gynecologist for pap and u/s",,,,
+Fiji Med Health - Mana Island,Meresiana Matavesi,1954-03-15,female,2025-03-26 07:28:47.805,Losartan  50 mg - 90,156.0,86.2,36.5,119.0,79.0,98.0,96.0,"Chief Complaint: general checkup 
+Hx: HTN, takes medications for BP and sugar; did not take medication today 
+NKA
+
+HPI: General checkup
+ROS: Negative for all systems
+PE: 
+Gen: Alert and oriented, non-toxic, NAD
+HEENT: Ear canals free of erythema and inflammation bilaterally, no discharge. Bilateral TM gray, normal landmarks. Oropharynx free of erythema, no tonsillar hypertrophy. No cervical lymphadenopathy. 
+Heart: RRR, No GMR
+Lungs: No accessory muscle use. CTA in all lung fields.
+Abdomen: Soft, non-tender
+Skin: mobile nodular mass present on R cheek, likely cyst per Dr Hannah 
+Plan: 
+1. HTN: losartan refill
+2. No medication for glucose today due to glucose is fairly well controlled",,,,
+Fiji Med Health - Mana Island,Meresiana Vatavesi,2000-01-01,female,2024-03-26 00:00:00.000,,167.0,81.7,36.6,131.0,73.0,98.0,88.0,"Hx of htn; here for eye exam + a rash; pt. Has rash to bue, consistent coith ringworm (tinea corporis). Clotrimazode oral given; pt. Also diffculty reading. Will send for optho exam. Consulted on smoke and diet control for bp.",,,,
+Fiji Med Health - Mana Island,Meresiana Vatavesi,2006-07-12,female,2024-03-29 00:00:00.000,,169.0,71.1,36.7,126.0,103.0,98.0,61.0,Tinea corp. Diflucan 150 mg po q wk x 4 wk. Clotrimazole cream top qd.,,,,
+Fiji Med Health - Mana Island,Merewalesi Tulia,1987-02-20,female,2024-03-26 00:00:00.000,,178.0,91.6,36.3,113.0,68.0,95.0,84.0,"Fm hx of dm and htn. Personal hx of root canal. Upon exam, mutliple dental caries, no obvious bleeding or discharge. 3/26/2024 seen in dental clinic, no anestictic used due to root canal, filling complete.",2024-03-26 00:00:00.000,,,
+Fiji Med Health - Mana Island,Mesake Bola,2001-02-23,male,2025-03-24 05:06:34.627,Omeprazole 20 mg - 30,181.0,107.6,36.4,96.0,80.0,97.0,90.0,"HPI: epigastric pain x1 day. Intermittent hx of this type of pain for years, worse with supine position but no food triggers. Denies chest pain, sob, diarrhea, palpitations. No home remedies .
+ROS negative except as stated above  
+PE: normal heart, lung and abdominal exam  
+Plan: diet education and omeprazole daily x1 month",,,,
+Fiji Med Health - Mana Island,Messa Robert,2000-01-01,male,2024-03-26 00:00:00.000,,123.0,22.5,36.7,,92.0,98.0,,"Wcc w/no pmh, nkda and no pain. Wnl exam other than dental caries, will refer to dental clinic.",2024-03-27 00:00:00.000,,,
+Fiji Med Health - Mana Island,Messa Robert Lesikiau Weleilabasa,2017-07-15,male,2025-03-23 22:22:10.548,,131.0,25.7,36.7,,88.0,98.0,78.0,"HPI: No acute complaints, presents for well-child exam
+
+Exam: Dental caries present, non-focal examination otherwise
+
+Assessment: Dental referral, continue routine health maintenance",2025-03-24 06:28:23.451,Fluoride tx applied to upper and lower teeth,,T
+Fiji Med Health - Mana Island,Metuisela Toduadua,1976-01-31,male,2025-03-25 05:11:30.721,Paracetamol 500 mg - 20,194.0,121.7,36.5,137.0,76.0,96.0,88.0,"Chief Complaint: Dry cough for a month, skin issues on both legs, blurry vision
+Hx: head injury from fall and surgery in 2004 -> headaches sometimes, no medications, no smoking
+NKA
+
+HPI: Intermittent dry cough for one month, non-productive; has chronically dry legs, using coconut oil; has some blurry vision as well, present for some time; Has intermittent headaches, was seen here last year after lipoma removal 2 yrs ago; no current headache reported
+
+Exam: No significant focal findings on exam; has varicose veins of lower extremities bilaterally; no rashes present, no rales/wheezing on exam
+
+Assessment/plan: Continue coconut oil for dry skin; paracetamol as above for headaches PRN; reading glasses given in clinic; educated on healthy diet/exercise",,,,
+Fiji Med Health - Mana Island,Michael Czukelter,1992-08-23,male,2025-03-27 06:40:05.842,,191.0,88.4,36.7,86.0,80.0,97.0,80.0,"No PMH
+Chief Complaint: left lower molar tooth pain—dental waitlist
+L eye started seeing red and became blurry a week ago and was given eye drop improved
+pain in R ribs 
+Hx: works on survivor and saw physician there who prescribed ibuprofen but began experiencing acid reflux; stopped taking ibuprofen and is on medication for acid reflux.
+Physician also checked ribs and told patient that it is inflammation.
+Patient explains he went to mainland for blood tests and everything came back good regardless. 
+Allergy: aspirin",2024-03-29 00:00:00.000,,,
+Fiji Med Health - Mana Island,Mikaele Talaki,1964-07-19,male,2025-03-24 06:14:15.209,Paracetamol 500 mg - 30,180.0,80.1,36.1,131.0,77.0,98.0,76.0,"Hx HTN, no meds, no allergies.
+
+HPI: back pain, chest pain, difficulty breathing, smoking and drinking x1/week
+ROS
+Back pain
+Chest pain
+Difficulty breathing 
+Headache 
+PE unremarkable 
+Plan: education on smoking and drinking cessation, proper body mechanics, going to mainland for optometry referral",2024-03-28 00:00:00.000,,,
+Fiji Med Health - Mana Island,Miriama Andi,2019-09-14,female,2025-03-23 21:55:16.506,,112.0,20.2,36.9,,90.0,99.0,66.0,"HPI: no complaints today
+ROS negative 
+PE: 
+HEENT- mucus in nose; cavities in teeth
+Plan: referral for dentist; Anticipatory guidance regarding hand hygiene and dental hygiene encouraged.",2025-03-23 22:26:01.650,Fluoride applied to upper and lower teeth,,"J, F, T, K, S, L"
+Fiji Med Health - Mana Island,Miriama Tokovou,2019-09-14,female,2024-03-27 00:00:00.000,,105.5,17.1,36.9,,99.0,98.0,,"Mother reports sob occurs when patient eats really fast. Nkda but hx of asthma attacks/treatments at hospital in past. No current complaints, or distress upon assessment. Mild dental caries noted to primary teeth. No acute findings other wise. Has not been hospitalized in the last 2 yrs. Dental 2 - appt made for 3/29/2024 fluoride tx also given.",2024-03-28 00:00:00.000,,,
+Fiji Med Health - Mana Island,Moape Drikaivanoa,1962-01-01,male,2025-03-24 23:06:41.027,,169.0,63.0,37.0,92.0,49.0,98.0,88.0,"No PMH. 
+Tooth pain front lower tooth needs pulled
+Reading glasses",2025-03-25 21:48:12.734,"BP 128/80
+HR 58
+98% O2",,25
+Fiji Med Health - Mana Island,Mohammad Friyaz,1970-03-21,male,2025-03-26 08:03:40.083,,164.0,69.0,36.3,377.0,119.0,98.0,100.0,"Hx of High BP, diabetes
+Hx meds: metformin, glipizide, cholesterol tablet unknown doses
+Ate an hr ago
+NKA
+
+Plan: Pt educated on dietary and lifestyle changes; pt educated on follow-up appointment to mainland due to needing to adjust existing medications",,,,
+Fiji Med Health - Mana Island,Mosesc Vueti,1982-01-01,male,2024-03-26 00:00:00.000,,,,36.2,93.0,76.0,96.0,102.0,"Hx of htn, presents for hand pain. Pt. Reports pain to palm of l hand for multiple years, prior x-ray (-), mild ttp of the hand, no fractures, no evidence of infection. Will refer to hand surgeon for further eval. Pt. States he is out of bp meds, will start losartan 50 mg daily (30 tabs) at this time. Referal given.",,,,
+Fiji Med Health - Mana Island,Mosese Kuroyasi,1964-07-27,male,2024-03-26 00:00:00.000,,,,37.2,306.0,69.0,98.0,74.0,"Dm x1 yr meds- papaya leaf, metformin 500 mg po bid; htn x1 yr losartan 50 mg 1 tab 1 po daily; needs reading glass; dental pain- l upper molar",,,,
+Fiji Med Health - Mana Island,Mosese Toniasau,1993-01-15,male,2025-03-25 22:22:19.086,"Omeprazole 20 mg - 30, Paracetamol 500 mg - 30",171.0,80.2,36.5,98.0,77.0,97.0,82.0,"Chief Complaint: experiencing GERD at night for an hour or two after eating spicy food; explains needs filling on bottom right molar 
+Hx: previous medication last year for GERD 
+NKA
+ROS: 
+- heartburn after eating spicy foods
+- chronic left shoulder pain worse with cold weather
+- buzzing in left ear 
+
+PE: 
+Gen: Alert and oriented, non-toxic, NAD
+HEENT: Ear canals free of erythema and inflammation bilaterally, no discharge. Bilateral TM gray, normal landmarks. Oropharynx free of erythema, no tonsillar hypertrophy. No cervical lymphadenopathy. 
+Heart: RRR, No GMR
+Lungs: No accessory muscle use. CTA in all lung fields.
+Abdomen: Soft, non-tender
+
+Plan: 
+- patient educated on exercises for left shoulder
+- education on dietary changes
+- waitlist for dentist",,,,
+Fiji Med Health - Mana Island,Nacanieli Lakau,2002-06-06,male,2024-03-28 00:00:00.000,,180.0,75.8,36.7,89.0,74.0,99.0,70.0,Within normal limits screening exam. Stop smoking. Dental tooth pain. Tylenol 500 mg tid prn #30.,,,,
+Fiji Med Health - Mana Island,Nacanieli Moceisuva,1985-01-15,male,2024-03-26 00:00:00.000,,,102.6,36.6,128.0,70.0,95.0,90.0,"L shoulder pain, headache; given ibuprofen 200mg 1-2 tabs po bid prn pain 30 tabs",,,,
+Fiji Med Health - Mana Island,Nacanieli Namada,1975-06-08,male,2025-03-23 23:00:12.252,,177.0,95.3,36.6,136.0,75.0,98.0,88.0,Leg rash—rx given for hydrocortisone as directed,,,,
+Fiji Med Health - Mana Island,Nacanieli Natubu,1998-07-08,male,2025-03-25 06:45:31.297,Ibuprofen 400mg - 30,174.0,98.0,36.5,74.0,89.0,98.0,84.0,"No hx, no meds, herbal medication for pain. Check up.
+Back pain led sided
+Cough x a few days",,,,
+Fiji Med Health - Mana Island,Naibuka Koroi,2020-12-10,male,2025-03-24 05:28:03.242,"Acetaminophen 160 mg - 40, Saline eye drops 2 drops - 1",103.0,15.6,36.5,,112.0,99.0,,"He if severe burns on R hand from 4 months age. Concerns with fever and L eye irritation.
+
+HPI: R hand burn with ongoing deformity, happened when child was 4 months old. Patient has had a mild cough, fever, and left eye itchiness for a couple of days. 
+
+Exam: Skin contractures of right hand from old burn, no erythema or purulence. Eyes and upper respiratory examination unremarkable. No significant conjunctivitis. 
+
+Assessment/Plan: Tylenol as needed, eye drops as needed for irritation. Will give referral for mainland for hand evaluation by pediatric surgeon. 
+
+Rx: Paracetamol as noted above, Saline eye drops",,,,
+Fiji Med Health - Mana Island,Naibuka Seru,1993-07-03,male,2025-03-24 06:36:08.747,,177.0,83.8,36.6,95.0,72.0,98.0,90.0,"CC: Tooth ache. 
+Medical hx: No past hx with meds or prior dx.
+
+HPI: Has multiple chipped teeth and dental caries, requesting teeth to be pulled. No major complaints otherwise.
+
+Exam: Multiple dental caries and chipped teeth, predominantly to the L upper molar, R upper molar, and R lower molar. No facial swelling. 
+
+Assessment/plan: Referral given for dental appointment.",2025-03-25 06:06:50.028,"BP 128/88
+Sutures applied to tooth 7&8","Acetaminophen 500 - 16, Ibuprofen 400 - 8, Amoxicillin 500 - 21","7, 5, 3, 8"
+Fiji Med Health - Mana Island,Naisa Tagiwavoli,1995-10-01,male,2025-03-26 05:45:51.480,"Ibuprofen  400mg - 30, Losartan 50mg - 30",186.0,110.1,36.6,120.0,103.0,96.0,94.0,"Hx: back pain from when he fell from a horse in 2014, worsens with cold weather and standing for long periods of time; 
+blurry vision since 2015 when someone stepped on his head playing rugby; 
+top left molar cracked but no pain
+HTN takes herbal for this.",,,,
+Fiji Med Health - Mana Island,Naithern Timrod Takayawa,2005-05-11,male,2025-03-24 21:25:07.940,,190.0,83.0,36.8,96.0,100.0,99.0,88.0,"Concerns with dental. No hx, no meds, no allergies.
+
+Did not see the doctor.",,,,
+Fiji Med Health - Mana Island,Nancy Ratuvou,1963-04-24,female,2024-03-27 00:00:00.000,,163.0,103.7,36.0,93.0,78.0,99.0,90.0,"Vision concerns, ingrown toe nails, dental issues; eye exam +1.25 distance & +3.00 reading, dental 2 ref - pt no showed to appt. Ophth referral sent, 2 toe nails removed in clinic.",,,,
+Fiji Med Health - Mana Island,Nanise Delaitoga,1983-05-19,female,2025-03-24 22:56:54.684,,167.0,140.0,36.3,126.0,76.0,99.0,80.0,"H/o HTN
+Amlodipine 5mg qd
+Will come for reading glasses
+
+Asa and Ibuprofen scripts given",,,,
+Fiji Med Health - Mana Island,Naomi Ucu,2006-02-12,female,2024-03-26 00:00:00.000,,155.0,54.5,36.4,129.0,97.0,100.0,50.0,18 f hx of rhd; no other c/o; bedside echo unremarkable; no c/o of pain/sob; pt encouraged for regular benza infections,,,,
+Fiji Med Health - Mana Island,Navitalai Neilako,1962-07-06,male,2025-03-23 23:54:26.667,,172.0,81.2,36.2,,57.0,97.0,94.0,"Concerns with toothache (multiple). R lower tooth pain x2 months 
+PE: R lower tooth with significant dental carry 
+Cracked tooth L upper mouth",2025-03-27 06:10:14.387,BP 142/92,,"16, 12"
+Fiji Med Health - Mana Island,Neibuka Kabunicena,1961-05-05,male,2025-03-25 07:08:55.388,,170.0,84.9,36.5,100.0,90.0,100.0,98.0,"Chief Complaint: nonproductive cough for 2 days
+Hx: none, no medications, no smoking 
+NKA
+
+HPI: Has a mild cough for 2 days, non-productive; no dyspnea or additional symptoms; does request some reading glasses, has chronic blurry vision
+
+Exam: Non-focal examination, no focal wheezes/rales
+
+Assessment/plan: Reading glasses given; cough likely 2/2 viral URI, no need for abx at this time; counseled on healthy eating/living, reducing salt intake due to BP",,,,
+Fiji Med Health - Mana Island,Nesake Koroi,2003-03-16,male,2025-03-24 05:41:56.101,,178.0,73.7,36.5,91.0,58.0,100.0,98.0,"Tooth pain left lower back tooth
+Etoh 
+Tob",2025-03-25 05:21:23.566,"BP 140/84
+
+03/26: BP 134/96, HR 61, 98% O2",,17
+Fiji Med Health - Mana Island,Netani Qai,2015-01-01,male,2024-03-26 00:00:00.000,,133.0,28.5,36.8,,87.0,97.0,,No pmhx; presents for well check; some dental caries noted on exam; refer to dentist,2024-03-28 00:00:00.000,,,
+Fiji Med Health - Mana Island,Netani Qai,1983-09-16,male,2024-03-27 00:00:00.000,,178.0,87.6,36.5,88.0,61.0,99.0,82.0,"General check up, would like to see the dentist. 3/29/24: dental caries noted, no opening available.",,,,
+Fiji Med Health - Mana Island,Netani Ratubuli,2015-03-28,male,2025-03-23 23:11:41.205,,138.0,29.6,37.3,,96.0,98.0,78.0,"HPI: no complaints today
+ROS negative 
+PE-  dental caries on lower teeth
+Plan: no need for f/u. Referral to dentistry. Anticipatory guidance regarding hand hygiene and dental hygiene encouraged.",2025-03-25 19:42:52.934,Fluoride applied to upper and lower,,18
+Fiji Med Health - Mana Island,Nox Buli,2015-06-25,male,2024-03-24 00:00:00.000,,140.0,35.1,36.7,,78.0,98.0,68.0,"Here for coughing; hx of asthma & pnuemonia, nkda, and takes paracetamol as needed but does not have inhalers at home for asthma. Presented to the clinic with occasional cough, itchy legs. No current respiratory distress or wheezing. Insect bites located ble. Gave ventolin inhaler & benadryl tablets prn itchying. Dental 2: seen 3/28/2024.",2024-03-28 00:00:00.000,,,
+Fiji Med Health - Mana Island,Orisi Seniuci,1975-06-02,male,2025-03-27 04:11:54.433,,179.0,110.0,37.1,97.0,90.0,97.0,90.0,"Chief Complaint: experiencing blurry vision on L eye
+Hx: none, no medications 
+NKA
+
+HPI: Vision loss intermittently in L eye, no pain, blurry vision comes and goes
+
+Exam: No obvious focal findings, Pupils PERRL, EOM intact, no conjunctiva changes
+
+Assessment/plan: Referral for ophthalmology follow up on the mainland",,,,
+Fiji Med Health - Mana Island,Panapasa Naluwau,1996-01-08,male,2025-03-25 06:00:25.464,,178.0,108.9,36.4,80.0,72.0,98.0,86.0,"CC: Health check up, no complaints
+Med hx: None, no meds
+
+HPI: Well-visit, no complaints; primarily eats resort food, less of the local diet 
+
+Exam: Non-focal examination
+
+Assessment/plan: Vision decreased slightly, recommend main island follow up with optometrist for glasses evaluation; Counseled on weight loss and healthy diet",,,,
+Fiji Med Health - Mana Island,Panapasa Sailasa,2017-09-18,male,2025-03-23 22:34:30.548,,141.0,35.1,36.7,,83.0,99.0,74.0,"HPI: insect bites are itchy 
+ROS +itching and runny nose 
+PE: multiple insect bites without secondary infection 
+Plan: hydrocortisone cream TAA BID prn
+Dispense 10 packets 
+Anticipatory guidance regarding hand hygiene and dental hygiene encouraged.",2025-03-25 19:32:26.220,Fluoride tx applied to upper and lower teeth.,,
+Fiji Med Health - Mana Island,Paul Yuaniserau,2004-02-13,male,2024-03-27 00:00:00.000,,,73.9,36.8,122.0,74.0,98.0,84.0,"R calf boil; l foot wound, nkda, currently no meds, med hx cigarrette smoker x3 yrs daily, weekend social drinker etoh. Open boil applied topical antibiotics and gave amox 500 mg po bid x10 days #20",,,,
+Fiji Med Health - Mana Island,Peni Taucilagi,1993-04-09,male,2025-03-24 06:33:43.476,,176.0,100.9,36.3,112.0,87.0,99.0,90.0,No past hx with meds. Concerns with tooth ache.—left bottom tooth pain.,,,,
+Fiji Med Health - Mana Island,Peniasi Lutunaliwa,2017-04-15,male,2025-03-23 22:33:03.559,,138.0,29.4,36.6,,73.0,98.0,80.0,"HPI: lesions to legs and arms that are itchy and ooze clear fluid 
+ROS itching and lesions  
+PE several bites to bilateral hands and feet that have clear discharge; minor secondary infection to several of the lesions  
+Plan: rx triple antibiotic ointment BID x 10 days TAA
+Dispense 1 tube 
+Anticipatory guidance regarding hand hygiene and dental hygiene encouraged.",2025-03-25 19:42:09.106,Fluoride tx applied to upper and lower teeth,,"L, A"
+Fiji Med Health - Mana Island,Penieli Tegunibogi,1979-03-13,male,2025-03-26 07:58:55.808,"ibuprofen 400mg - 30, metformin 500mg - 180, calcium carbonate 500mg - 30",178.0,106.0,36.4,328.0,104.0,97.0,94.0,"Blurry vision for the past couple years, currently happening. Has complaints of excessive thirst. Denies polyuria or polyphagia.  Hx heartburn occasionally. Also c/o heartburn symptoms occasionally. R shoulder pain, chronic.
+Plan: 
+1. New onset diabetes. Start metformin 500mg BID. Dietary changes discussed. Referral to f/u on mainland given. 
+2. Heartburn: calcium carbonate prn, dietary changes discussed
+3. R shoulder pain: ibuprofen prn 
+4. Presbyopia: reading glasses given",,,,
+Fiji Med Health - Mana Island,Petero Lewatiakana,2013-12-11,male,2025-03-23 23:02:44.345,,147.0,34.8,37.0,,93.0,98.0,79.0,"HPI: Presents for well-child examination, no acute complaints
+
+Exam: Non-focal examination, unremarkable findings overall
+
+Assessment: Continue routine health maintenance",2025-03-25 19:39:50.236,Fluoride applied to upper and lower,,
+Fiji Med Health - Mana Island,Petero Matea,1977-05-23,male,2025-03-28 00:14:32.938,"multivitamin  1 - 90, ibuprofen 400mg - 30, ACE wrap 1 - 1",185.0,118.9,36.4,125.0,80.0,96.0,82.0,"Chief Complaint: vision difficulties, knee and ankle pain 
+R knee appears higher and protrudes forward to an anterior position, occurred after came down wrong playing volleyball. Intermittent pain. 
+Hx: none, no medications
+No smoking, no drinking
+NKA
+Plan:
+1. R knee pain with effusion: ibuprofen 400mg prn pain 
+2. Presbyopia: reading glasses given 
+
+ Ate right before coming in - BS 125",2024-03-26 00:00:00.000,,,
+Fiji Med Health - Mana Island,Petero Sanele,1999-04-07,male,2025-03-25 21:24:40.917,Paracetamol 500 mg - 30,178.0,82.0,36.7,74.0,86.0,94.0,78.0,"Chief Complaint: general checkup, 
+Hx: smokes 2x per day, morning and night; previous jaw injury causing mouth and tooth pain especially when it’s colder weather 
+NKA
+
+HPI: No major complaints, general check-up; has intermittent jaw pain from old injury
+
+Exam: Non-focal examination findings, no significant issues
+
+Assessment/plan: Continue routine health maintenance; paracetamol as needed for pain",,,,
+Fiji Med Health - Mana Island,Petero Yavala,2012-05-18,male,2025-03-24 21:50:40.746,,155.0,42.5,36.7,,63.0,98.0,78.0,"HPI: General Checkup
+ROS: Negative for all systems
+PE: 
+Gen: Alert and oriented, non-toxic, NAD
+HEENT: Ear canals free of erythema and inflammation bilaterally, no discharge. Bilateral TM gray, normal landmarks. Oropharynx free of erythema, no tonsillar hypertrophy. No cervical lymphadenopathy. 
+Heart: RRR, No GMR
+Lungs: No accessory muscle use. CTA in all lung fields.
+Abdomen: Soft, non-tender
+Dental: Normal Detention
+Plan: 
+Age appropriate anticipatory guidance given.",2025-03-25 19:55:05.746,Fluoride applied to upper and lower,,
+Fiji Med Health - Mana Island,Petueli Daulako,1989-06-11,male,2025-03-24 06:39:50.069,,191.0,95.3,36.1,96.0,70.0,96.0,79.0,"CC: Tooth ache
+Medical hx: No meds. No past dx.
+
+HPI: Has intermittent tooth ache to left upper tooth, has been present for 3 years. Worsening pain with eating and particularly cold foods. 
+
+Exam: Discoloration of left upper lateral incisor, partially chipped. No additional focal exam findings. 
+
+Assessment/plan: Referral for dentist - likely for dental extraction.",2025-03-25 06:34:44.538,"BP 142/98
+Abscess noted on top gum above tooth 10; amoxicillin prescribed 
+Small red bump noted above tooth 9 upper midline of top gum line. Potential relation to tooth 10 abscess.  Instructed to rinse with warm salt water for at least 30 sec. 2x daily. If it remains or worsens see primary dentist.","Ibuprofen 400 - 8, Amoxicillin 500 - 21, Acetaminophen 500 - 16",10
+Fiji Med Health - Mana Island,Philipp Klass,1995-07-04,male,2025-03-26 06:59:39.033,"Ibuprofen 400mg - 30, Ondansetron 4mg - 10",,79.1,36.7,,85.0,97.0,72.0,"Chief Complaint: chills, dizziness upon standing, hot flashes, diarrhea this morning, arms and legs hurting 
+Started yesterday, has only drunk 1.5L of water
+Hx: none, no medications 
+NKA",,,,
+Fiji Med Health - Mana Island,Pita Ratuagone,2013-11-26,male,2025-03-23 23:03:08.059,,144.0,46.0,36.7,,80.0,97.0,84.0,"HPI: C/o cough x2 days. +HA. No fever. Sister had cough before him.
+ROS cough and nasal congestion  
+PE lungs  mild inspiratory respiratory wheeze . Rest of PE unremarkable.  
+Plan: no need for f/u or referral today. Anticipatory guidance regarding hand hygiene and dental hygiene encouraged.",2025-03-25 19:41:06.115,Fluoride applied to upper and lower,,30
+Fiji Med Health - Mana Island,Pita Tavakia,1990-05-09,male,2024-03-26 00:00:00.000,,178.2,114.8,36.5,99.0,93.0,99.0,82.0,L knee burn- changed bandaged and applied antibiotics; dental pain; target weight 80 kg,,,,
+Fiji Med Health - Mana Island,Pita Tui,1982-07-05,male,2025-03-27 04:10:21.416,Omeprazole 20 mg - 60,184.0,117.0,37.0,88.0,102.0,95.0,90.0,"HPI: Gastric issues, pain after eating > 2hrs after food. Patient reports intermittent blood in his stool, first occurrence in 2009 after a night of heavy drinking. Reports bright red blood in stool only when heartburn is present and mid-epigastric burning pain that travels up the chest. States given medication for heartburn on mainland one year ago that helped with heartburn and blood in stool. No fam hx colon ca.
+PE: 
+Gen: Alert and oriented, non-toxic, NAD
+Heart: RRR, No GMR
+Lungs: No accessory muscle use. CTA in all lung fields.
+Abdomen: Soft, non-tender
+
+Plan: 
+1. Blood in stool: Pt educated on obtaining a colonoscopy on the mainland and s/s of anemia 
+2. Gastritis
+RX:
+1. Omeprazole 20 mg PO daily",,,,
+Fiji Med Health - Mana Island,Rajnesh Chand,1987-03-12,male,2025-03-27 21:58:12.122,Metformin 500 mg - 120,171.0,62.0,36.1,345.0,77.0,97.0,92.0,"NKA
+Last meal at 0930 BS at 345 — patient reports that he had blurry vision with eye check, he has increased thirst and urination. He reports increased sugar intake with meals. Brief education on dietary changes for decreasing sugar from diet; cut out soda, limit sugar intake coffee, and cut back on Roti consumption.
+No known medical issues, Family history of DM2 (mother)
+Patient presents for dental consultation. Patient denies pain in teeth 
+Tobacco use - 4 years, 3-4 days per week, 1-2 per day.
+
+HPI: Increased urinary frequency and thirst for past few months, maternal hx of DM, no personal hx. Drinks many fruit juices and sugary drinks; has some occasional dental pain/discomfort, no specific tooth bothering him
+
+Exam: Non-focal examination overall
+
+Assessment/plan: Hyperglycemia today at 345, suspected new onset DM, particularly with increased thirst and urinary frequency; Will start Metformin 500 mg BID, referral sent for mainland follow up. Counseled on dietary changes and smoking reduction;",,,,
+Fiji Med Health - Mana Island,Rara Cava,1980-05-02,male,2025-03-25 06:09:46.060,,179.5,108.3,36.5,126.0,48.0,98.0,98.0,"Chief Complaint: general checkup, would like dental checkup 
+Hx: no medications
+NKA
+
+HPI: Has some dental pain to the R lower premolar, no further complaints, requesting general check-up
+
+Exam: Chipped tooth of the R lower premolar, no additional focal findings
+
+Assessment/plan: Dental referral given; counseled on diet and exercise, as well as weight loss given mildly elevated BP and BMI; HR okay given BP is okay",2025-03-27 08:17:02.719,*medical clinic was closed early - no BP taken.,,28
+Fiji Med Health - Mana Island,Ratu Bilo Valasiri,2009-10-19,male,2024-03-27 00:00:00.000,,164.0,58.9,36.5,,84.0,96.0,,"Wcc; wnl findings, negative scoliosis, tinea generalized, gave diflucan 150 mg x10 days and apply clotrimazole cream daily.",,,,
+Fiji Med Health - Mana Island,Ratu Kinijoji,1997-01-19,male,2025-03-24 21:55:25.913,,191.0,83.0,36.4,78.0,66.0,99.0,92.0,"CC: Tooth ache
+Med hx: No hx, no meds
+
+HPI: Complains of multiple tooth aches, ongoing for multiple months, worse with eating; take Paracetamol occasionally for pain
+
+Exam: Multiple dental caries and chipped teeth, notable to the left and right upper 1st molars; R lower molar; no facial swelling
+
+Assessment/plan: Encouraged healthy eating/living; BP minimally elevated, not significantly, will defer medications at this time, counseled on diet/exercise. Dental referral given for appt.",2025-03-25 21:16:33.970,BP 124/78,"Ibuprofen 400mg - 8, Acetaminophen 500mg - 16, Amoxicillin 500mg - 21","2, 28"
+Fiji Med Health - Mana Island,Ratu Naitauniyalo,2011-05-05,male,2024-03-27 00:00:00.000,,164.0,49.9,36.7,,88.0,100.0,,"Clear to auscultation lungs, within normal limits screening scoliosis.",,,,
+Fiji Med Health - Mana Island,Ratu Pedro Yavaia,2012-05-18,male,2024-03-27 00:00:00.000,,156.0,40.6,36.4,,52.0,98.0,,"Wcc, nkda, no meds. Reports tooth pain, ear pain and bump on l elbow. Upon assessment mild cerumen. Ongoing tooth pain, bottom right molar. L elbow contusion, rom of arm. Dental referral #1, making appt with sister.",2024-03-29 00:00:00.000,,,
+Fiji Med Health - Mana Island,Ratu Roseru,2018-01-01,male,2025-03-23 21:50:55.599,,,,36.6,,,,,"Patient presenting for well-child check, no complaints. No significant focal findings on exam. No obvious dental caries on assessment. No rashes noted.",2025-03-23 21:37:10.663,Dental Check Up,,
+Fiji Med Health - Mana Island,Raty Savenaca,2020-10-01,male,2024-03-24 00:00:00.000,,101.0,16.9,36.9,,109.0,96.0,,"Nkda, runny nose x 1 week from uri and improving. Tinea on abdomen, topical antifungal tube dispensed to area bid x 14 days.",,,,
+Fiji Med Health - Mana Island,Ravouvou Ranadi,1991-02-08,female,2025-03-24 05:35:01.600,,164.0,102.4,36.7,131.0,79.0,98.0,76.0,"Concerns with vision., difficulty reading close.",,,,
+Fiji Med Health - Mana Island,Rebo Teatu,1960-09-25,female,2024-03-24 00:00:00.000,,155.0,76.9,36.4,105.0,62.0,96.0,86.0,"Dx: gerd & blurry vision, bleeding gums and watery eyes. Allergic to pcn. No bleeding present on assessment. No signs of ocular trauma or external abnormality. Reports epigastric pai, gave education of gerd and diet. Referral for dentist and opthalmology. Dental appt: 3/26/2024, patient declined tooth extraction.",,,,
+Fiji Med Health - Mana Island,"Rejieli ""grace"" Tawaketini",2020-11-29,female,2024-03-25 00:00:00.000,,,14.0,36.9,,150.0,,,"Blind, premature, delayed verbal/motor, extensive scabies, uri, tylenol and parmethrin",,,,
+Fiji Med Health - Mana Island,Remo Davu,1964-07-17,male,2025-03-25 23:37:43.367,,175.0,116.0,36.1,98.0,71.0,95.0,86.0,"Chief Complaint: broken dentures (main concern); headache, blurry vision, feels faint
+Hx: car accident in 1980 and broke hand and L leg, has had chest pain ever since
+NKA
+
+HPI: Intermittent headaches, with some dizziness/blurry vision usually with positional changes; has some broken dentures to the upper palate; Also has some intermittent left sided chest wall pain from prior accident
+
+Exam: Broken hard palate dentures, still in place, otherwise unremarkable exam findings
+
+Assessment/plan: Educated and counseled on healthy eating and diet, as well as weight loss to help with maintaining BP. Was previously prescribed Losartan for BP, however, BP not significantly elevated today; will defer additional med management. Has an appt on the mainland in 1.5 weeks for a dentist. Dizziness and headaches likely 2/2 orthostatic changes, educated on symptomatic care at home; paracetamol as needed for headaches; reading glasses provided",,,,
+Fiji Med Health - Mana Island,Retieli Kube,1956-08-10,female,2024-03-25 00:00:00.000,,168.0,85.7,36.6,221.0,74.0,97.0,85.0,"Shoulder pain bilat, bilat pain on feet and legs, numbness and tingling fingers, bloodsugar, bp, meds: cantion, amlodipine, losartan, metformin, atorvastatin, nka, hx diabetes, high cholesterol, high bp, opth ref, ref for meds, given losartan 50 mg qd #30, metformin 500 mg qd #30",2024-03-28 00:00:00.000,,,
+Fiji Med Health - Mana Island,Riya Singh,2000-02-21,female,2025-03-27 22:00:38.998,multivitamin 1 tablet - 90,158.0,76.9,36.9,91.0,95.0,99.0,80.0,"Chief Complaint: general checkup and R wrist pain when overused. Work involves typing at Mana Resort. 
+Hx: none, no medications
+NKA
+PE unremarkable except Phalen test positive on right side 
+1. R Carpal tunnel syndrome: wrist splint at night if possible",,,,
+Fiji Med Health - Mana Island,Robyn Johnson,1989-04-18,female,2025-03-28 01:16:30.263,,168.0,106.0,36.4,86.0,86.0,98.0,80.0,"No past medical hx 
+No tobacco or etoh
+NKDA
+
+HPI: No complaints, presents for general wellness examination
+
+Exam: Non-focal examination 
+
+Assessment/plan: Counseled on routine health maintenance",,,,
+Fiji Med Health - Mana Island,Rohit Prasad,1975-04-30,male,2025-03-26 08:00:48.317,Cephalexin 500mg - 14,178.0,81.9,36.3,144.0,97.0,97.0,88.0,"Pt has cough —had a cold recently, getting better
+R side ear discharge clear and hard of hearing (started during a flight)
+Seen ENT in Suva
+Abd pain after eating GERD
+Rash—folliculitis",,,,
+Fiji Med Health - Mana Island,Rosi Salabogi,2002-06-28,female,2024-03-24 00:00:00.000,,174.5,100.5,36.6,81.0,70.0,99.0,60.0,"Check up, breast feeding, mvi po q #30, fe po qd #30",,,,
+Fiji Med Health - Mana Island,Rt Anare Rinaqarikau,1990-01-09,male,2024-03-28 00:00:00.000,,169.0,83.7,36.4,104.0,67.0,97.0,88.0,"Tob use - 2 cig.day. L eye injury as child and vision deficit. Dental issues loose tooth. L leg pain, given ibuprofen 200mg po bid prn pain. Eye exam: eye injury age 8- blow to left eyebrow and laceration. Nontemporal vf deficit.",2024-03-28 00:00:00.000,,,
+Fiji Med Health - Mana Island,Ruci Kafoa,1991-05-25,female,2025-03-25 05:25:50.800,,169.0,118.5,36.5,107.0,82.0,97.0,84.0,"No hx, no meds.
+Reading glass appt",,,,
+Fiji Med Health - Mana Island,Ruci Koroitaiti,1965-02-12,female,2024-03-25 00:00:00.000,,166.0,73.3,37.1,221.0,97.0,95.0,80.0,"Scabies, dm ii, visual disturbance, given metformin and ivermectin",,,,
+Fiji Med Health - Mana Island,Ruci Ucu Valasini,1991-05-25,female,2024-03-24 00:00:00.000,,166.0,114.0,36.7,70.0,79.0,96.0,59.0,"Target wt: 90 kg, reports possibly 2 months pregnant, feels movement, back pain intermittent, not takening meds for pain, headaches and reports water helps during the heat throughout the day",,,,
+Fiji Med Health - Mana Island,Ruci Valasiri,2019-04-10,female,2025-03-25 21:08:35.285,Paracetamol 320 mg - 60,116.0,23.0,36.7,40.0,126.0,97.0,66.0,"Chief Complaint: dry cough and fever since last night, not taking medicine
+Hx: none
+NKA
+
+HPI: Seen two days ago, no complaints at that time; now has cough x1 day with possible subjective fever; no medication taken
+
+Exam: Non-focal exam, no focal crackles or wheezing, non-toxic appearing
+
+Assessment/plan: Paracetamol as needed for pain/fever; symptomatic care for likely viral URI",2025-03-23 22:49:32.336,Flouride treatment applied to upper and lower teeth.,,
+Fiji Med Health - Mana Island,Rucila Vukaiciwa,1964-09-26,female,2025-03-23 23:23:40.557,"Ibuprofen 400mg - 30, Aspirin  81mg - 30",167.0,107.4,36.7,114.0,66.0,97.0,68.0,"Waist 134
+Headache
+Reading glasses",,,,
+Fiji Med Health - Mana Island,Rupeni Naiubi,1993-08-29,male,2025-03-25 06:20:10.699,,181.0,70.5,36.7,102.0,60.0,98.0,78.0,"Chief Complaint: would like a dental checkup/cleaning. No cracked or missing teeth. Explained only referring to dental for major cases at this time
+Hx: gastric problems
+NKA",,,,
+Fiji Med Health - Mana Island,Rusila Vukaiciua,2020-10-01,female,2025-03-23 22:07:42.642,,111.0,17.0,36.9,,70.0,100.0,64.0,"Actual DOB is 10/01/2019
+HPI: No complaints, presents for well-child check
+
+Exam: Non-focal, no acute findings
+
+Assessment: Continue routine health maintenance",2025-03-25 19:22:06.967,Fluoride tx applied to upper and lower teeth,,J
+Fiji Med Health - Mana Island,Rusila Vukaiciwa,1960-09-26,female,2024-03-24 00:00:00.000,,162.0,106.6,36.6,157.0,82.0,96.0,84.0,Headaches 1x week. Back pain during bad weather. Meds: panadol for headaches.,,,,
+Fiji Med Health - Mana Island,Sabeta Doum,2002-12-08,female,2024-03-26 00:00:00.000,,,84.6,36.2,110.0,72.0,97.0,78.0,Cyst r temporal region- yrs no pain or drainage; r-otitis externa-will conitnue to monitor for ear drops-cipro,,,,
+Fiji Med Health - Mana Island,Sai Mailu,1955-10-26,female,2025-03-23 23:36:24.908,,171.0,91.5,36.1,114.0,84.0,98.0,104.0,HTN on,,,,
+Fiji Med Health - Mana Island,Sainianwa Naulu,1955-10-26,female,2025-03-25 22:17:52.358,,165.0,96.9,36.8,130.0,101.0,97.0,118.0,"Chief Complaint: feeling hot, blurry vision, heart palpations, high BP with activity but came down with sitting ; would like to get glasses
+Hx: none, aspirin, metoprolol, amlodipine, lisinopril
+Allergy: penicillin
+
+HPI: Felt overheated with palpitations after walking outside, some mild blurry vision; no chest pain or dyspnea
+
+Exam: Non-focal exam, grossly unremarkable
+
+Assessment/plan: Symptoms and vital signs improved after sitting and cooling down, presentation likely 2/2 mild heat exhaustion; encouraged hydration with water/coconut water; reading glasses provided in clinic today",,,,
+Fiji Med Health - Mana Island,Sairusi Seninawanawa,2018-03-02,male,2025-03-23 22:23:41.994,,125.0,24.9,36.8,,78.0,99.0,72.0,"HPI: Presents for well-child examination, no acute complaints
+
+Exam: Dental caries present, has evidence of prior burn or possible tinea infection, non-focal examination otherwise
+
+Assessment: Dental referral; Doubt active tinea, no itching or discomfort; continue routine health maintenance",2025-03-25 19:28:36.971,Fluoride tx applied to upper and lower teeth,,"K, T, S, L"
+Fiji Med Health - Mana Island,Sakiusa Driso,1975-05-25,male,2025-03-26 05:59:15.040,multivitamin  1 tablet - 90,180.0,129.4,36.6,219.0,96.0,96.0,92.0,"Hx: none, no medications 
+NKA
+HPI: 
+#Blurry vision R eye x3 years, 
+#L upper molar tooth pain x1year, pain with eating
+Plan:
+1. Reading glasses
+2. Elevated 2hr postprandial glucose: return to clinic on Friday am for FBS check
+3. Elevated blood pressure reading: Return to clinic Friday am for BP recheck. If still elevated, consider starting antihypertensive 
+4. Tooth pain: dental appt made Thursday at 6pm",2025-03-27 05:39:38.095,"Pre Procedure BP 150/98
+Recheck BP 142/94","Ibuprofen 400mg - 8, Amoxicillin 500mg - 21, Paracetamol 500mg - 16",15
+Fiji Med Health - Mana Island,Salanieta Vakawale,1993-09-24,female,2025-03-26 00:02:08.140,"Multivitamins 1 tab - 90, Loratadine  10 mg - 30",171.0,101.0,36.6,110.0,71.0,98.0,82.0,"Chief Complaint: yellow productive cough since last week 
+Hx: fever and headache last week, not currently present. previous ear infection (2020, 2024). 
+NKA
+
+PE: 
+Gen: Alert and oriented, non-toxic, NAD
+HEENT: Ear canals free of erythema and inflammation bilaterally, no discharge. Bilateral TM gray, normal landmarks. Oropharynx free of erythema, no tonsillar hypertrophy. No cervical lymphadenopathy. 
+Heart: RRR, No GMR
+Lungs: No accessory muscle use. CTA in all lung fields.
+Abdomen: Soft, non-tender
+Plan:
+- Loratadine 10 mg 
+- Multivitamins 
+- pt educated on viral illness and symptomatic management; education on absence of ear infection",,,,
+Fiji Med Health - Mana Island,Salaseni Radu,2002-07-20,male,2024-03-26 00:00:00.000,,,73.1,36.7,109.0,85.0,99.0,62.0,"Single, 0 rash, 0 vision, 0 dental",,,,
+Fiji Med Health - Mana Island,Salimoni Johnson,2019-02-16,male,2025-03-23 22:05:35.148,,122.0,20.8,37.0,,113.0,98.0,98.0,"HPI: no complaints today
+ROS negative 
+PE unremarkable 
+Plan: no need for f/u or referral today. Anticipatory guidance regarding hand hygiene and dental hygiene encouraged.",2025-03-24 06:25:43.054,Flouride tx applied to upper and lower teeth,,
+Fiji Med Health - Mana Island,Salote Carakilagi,1987-01-25,female,2025-03-24 05:20:53.465,,159.0,95.6,36.5,116.0,71.0,99.0,78.0,"Salote Cavakilagi (correct spelling). 
+CC: Concerns with teeth and vision.
+
+HPI: Received reading glasses last year, but they broke. Has a 1.25+ prescription. Also requesting evaluation for dental pain. Patient has left upper molar pain, worse with eating. 
+
+Exam: Mild chipped left upper molar, no asymmetry of the face. Otherwise unremarkable examination. 
+
+Assessment/Plan: Glasses given in clinic. Dental appointment/referral given.
+
+Rx: None",,,,
+Fiji Med Health - Mana Island,Samanunu Namatasera,1987-01-01,female,2024-03-26 00:00:00.000,,,110.6,36.5,93.0,65.0,97.0,86.0,Uri- ibuprofen 200 mg po bid prn pain,,,,
+Fiji Med Health - Mana Island,Samisoni Funaki,1996-01-04,male,2024-03-26 00:00:00.000,,187.0,101.8,36.1,82.0,70.0,98.0,80.0,"Rash on upper body, needs dental exam r/t broken upper teeth. Large blister (r ) groin region",2024-03-27 00:00:00.000,,,
+Fiji Med Health - Mana Island,Samuela Bolaca,2016-05-13,male,2025-03-23 22:40:01.249,,138.0,34.0,36.3,,86.0,99.0,80.0,"HPI: Presents for well-child examination, no acute complaints
+
+Exam: Dental caries present, non-focal examination otherwise
+
+Assessment: Dental referral, continue routine health maintenance",2025-03-25 19:39:50.660,"Fluoride tx applied to upper and lower teeth
+
+BP 108/68",,"E, B"
+Fiji Med Health - Mana Island,Samuela Dawai,2020-12-03,male,2025-03-23 23:23:15.148,,111.0,21.3,36.4,,105.0,99.0,56.0,"HPI: 
+1. febrile seizures x5 since he has been born. Always has to be admitted for seizures and no other abnormality per mom. Does not have Rx for Motrin or Tylenol to prevent seizures when patient has fever.
+2. Tinea corpora’s to L arm x2 days 
+ROS rash, febrile seizures  
+PE tinea corporis to L arm. Neuro exam unremarkable   
+Plan: 
+1. Clotrimazole 1% 1 application TAA bid x14 days 
+2. Ibuprofen 200 mg q6hr prn fever
+ER precautions for seizure",,,,
+Fiji Med Health - Mana Island,Samuela Taucilagi,1994-05-10,female,2024-03-26 00:00:00.000,,180.0,67.6,36.3,105.0,59.0,98.0,76.0,"Here for teeth pain (2), upper and lower, rates pain 9/10. No pmh, allergies or current meds. Reports does smoke and drink. Discussed d/c smoking.",,,,
+Fiji Med Health - Mana Island,Sefamaia Balasiri,1964-10-20,male,2024-03-25 00:00:00.000,,176.5,95.0,36.1,326.0,93.0,97.0,61.0,"C/o r&l flank pain, boil on right bottom, wears glasses prn, hx of dm and did not take medication this morning. Meds glipizide 5 mg bid, metformin 500 mg bid, snd bactrim ds 1 tab po daily",,,,
+Fiji Med Health - Mana Island,Sefanaia Saunikalou,2011-11-01,male,2025-03-24 21:44:25.974,"Loratadine 10 mg - 20, Saline eye drops 2 drops - 1",161.0,63.0,36.2,,81.0,97.0,72.0,"CC: Concerns with L eye swelling periodically that itches without discharge, sometimes bilateral eyes. No difficulty with breathing or rashes during. ( most commonly L eye).
+Med hx: None
+
+HPI: Has periodic itchiness to the left eye, none currently. No current URI symptoms. No tooth pain or additional complaints
+
+Exam: Non-focal examination, healthy teeth overall, no obvious conjunctivitis 
+
+Assessment/plan: Loratadine 10 mg daily PRN for allergy symptoms, eye drops to use as needed as well",2025-03-25 19:52:36.464,Fluoride applied to upper and lower,,"30, 31"
+Fiji Med Health - Mana Island,Sefanaia Valasiri,2014-06-28,male,2024-03-25 00:00:00.000,,141.0,34.5,37.2,,98.0,98.0,,"Bilateral ear pain/viral syndrome 2 wks, associated cough, no fever, tm abnormalities, tylenol and altrmfica",,,,
+Fiji Med Health - Mana Island,Seini Johnroy,2023-10-12,female,2024-03-24 00:00:00.000,,60.0,6.7,36.6,,108.0,99.0,,"Slightly delayed on vaccines, small mosquitoe bites. Counseled on vaccine completion",,,,
+Fiji Med Health - Mana Island,Seini Litia,1966-02-17,female,2025-03-25 05:37:16.010,Ibuprofen 400mg - 30,146.5,67.9,36.3,172.0,83.0,98.0,95.0,"Was hit with a cane by husband last yr. C/o L knee pain with swelling.
+ Hx of HTN and DM . Not consistent with taking meds, doesn’t remember name of meds. 
+Concerns with vision—reading glasses check",,,,
+Fiji Med Health - Mana Island,Sekove Rauga,1957-02-18,male,2025-03-24 06:17:17.099,,165.0,81.4,36.7,115.0,61.0,98.0,80.0,"No meds, no Dx. C/ o lower right tooth pain , 1 tooth chipped with hole upper left —painful.  Taking pain meds bought from main island.",2025-03-24 06:54:47.329,,"Acetaminophen 500 - 16, Ibuprofen 400 - 8, Amoxicillin 500 - 21","16, 22"
+Fiji Med Health - Mana Island,Sekove Vakosia,1977-01-08,male,2025-03-24 22:46:36.173,,185.0,90.0,37.0,125.0,45.0,97.0,81.0,"Bradycardia—seen and followed by cardiology on the main island.
+Encouraged follow up.
+Has aspirin.
+Reviewed CVwarning signs and symptoms",,,,
+Fiji Med Health - Mana Island,Semesa Koroi,1977-06-26,male,2024-03-26 00:00:00.000,,,127.9,36.6,124.0,102.0,98.0,59.0,Cold symptoms - gave motrin 1-2 tabs po bid prn pain 30 tabs,,,,
+Fiji Med Health - Mana Island,Semi Nakolilevu,1977-09-26,male,2024-03-28 00:00:00.000,,172.0,94.7,36.3,112.0,91.0,100.0,100.0,"No pmhx. Here for vision problems. No other complaints. No hx of htn. Counseled on lifestyle managements for bp, likely elevated after work. Will defer meds for now. Counseled on smoking cessation.",,,,
+Fiji Med Health - Mana Island,Semi Nasau,2000-01-01,male,2024-03-27 00:00:00.000,,177.0,54.0,36.6,,88.0,97.0,,Viral uri - sympt tx,,,,
+Fiji Med Health - Mana Island,Semi Oro,2018-01-08,male,2025-03-23 22:24:15.579,,132.0,29.0,36.7,,92.0,99.0,78.0,"Actual DOB 1/3/18
+
+HPI: no complaints today
+ROS negative 
+PE: 
+HEENT- multiple cracked teeth bottom right 
+Plan: no need for f/u or referral today. Anticipatory guidance regarding hand hygiene and dental hygiene encouraged.",2025-03-25 19:25:13.794,Fluoride tx applied to upper and lower teeth,,"L, K"
+Fiji Med Health - Mana Island,Semi Vatuoro,2000-01-01,male,2024-03-26 00:00:00.000,,126.0,26.2,36.8,,74.0,98.0,,"Nasal green discharge, here for sinusitis and cough x 6 wks, poor dentation. Amox 1 tab tid #30 given chew",2024-03-27 00:00:00.000,,,
+Fiji Med Health - Mana Island,Senivalti Maitavniyalo,2016-09-05,male,2025-03-23 22:35:59.741,,130.0,31.4,37.2,,85.0,98.0,74.0,"Name is spelled Senivalati Naitauniyalo
+
+HPI: No complaints, well-child examination
+
+Exam: No acute focal exam findings
+
+Assessment: Continue routine health maintenance",2025-03-25 19:57:39.455,Fluoride applied to upper and lower,,"S, T"
+Fiji Med Health - Mana Island,Seniviva Nenani,1962-10-24,female,2025-03-24 21:58:17.533,"Losartan 50mg - 30, Hydrocortisone 1% 1 application - 1, Ibuprofen 200mg - 20",180.0,93.3,36.7,96.0,66.0,99.0,102.0,"Correct name spelling Seniviva Nemani.
+HPI: 
+#Hx HTN, was on enalapril unknown dose. Ran out of rx 2 mos ago. 
+#Blurry vision for years. Has old rx for glasses. No eye pain. 
+#Arthritis lower back, needs refill of pain medication. Ibuprofen given last year helps.
+#Requesting refill of steroid cream for eczema
+PE: 
+Gen: Alert and oriented, non-toxic, NAD 
+Heart: RRR, No GMR
+Lungs: No accessory muscle use. CTA in all lung fields.
+Abdomen: Soft, non-tender
+MS: Pain to bilateral lower back
+Dental: Normal dentition 
+Plan: 
+1. Decreased visual acuity-new pair eyeglasses given
+2. HTN: start losartan 50mg daily and return to clinic in 2-3 days for BP recheck. F/u with district nurse as scheduled.
+3. Rx for steroid cream
+4. Ibuprofen prn back pain",,,,
+Fiji Med Health - Mana Island,Sera Veniana,1973-12-29,female,2025-03-25 00:30:53.766,,165.0,55.0,36.8,,,,,,,,,
+Fiji Med Health - Mana Island,Sereana Adi,1991-02-24,female,2024-03-28 00:00:00.000,,155.0,71.4,36.7,88.0,68.0,98.0,70.0,"Check up for headache, occasionally (unsure cause) and teeth pain; no pmh, current rx is birth control (unsure name). Reports dental pain r lower molar, worse when eating. Will give penadol 500 mg q 6 h for headaches/pain/prn. Eye exam: -0.25 distance (b) j+1 up close. Dental 1 - patient did not make appt.",,,,
+Fiji Med Health - Mana Island,Sereana Ratubuli,2019-11-25,female,2025-03-23 22:13:36.421,,115.0,20.4,36.6,,106.0,95.0,70.0,"HPI: No complaints, presents for well-child evaluation
+
+Exam: Multiple dental caries, no additional focal findings
+
+Assessment: Referral to dentist, continue routine health maintenance",2025-03-24 06:33:37.647,Fluoride tx applied to upper and lower teeth.,Tylenol  240 - 4,K
+Fiji Med Health - Mana Island,Seru Laveta,1973-07-19,male,2025-03-24 06:53:50.155,Paracetamol 500 mg - 20,183.0,107.0,36.4,186.0,86.0,98.0,92.0,"c/o shoulder pain, knee pain / weakness and random chest pains not related to exercise or breathing. Hx of HTN. Taking metformin 500mg once daily, enalapril 5 mg daily, glipizide 5 mg once daily.
+
+HPI: Intermittent R shoulder and bilateral knee pain, worsening with exercise and manual labor. Follows with PCP on the mainland for HTN and DM. Does report some intermittent sharp chest pain to the anterior chest, usually after manual labor or at the end of a work day. Denies cardiac hx, no current chest pain.  Also reports dental implants in the hard palate, which have broken. Requesting reading glasses as well. 
+
+Exam: Dental implant in the hard palate with small broken piece on the right side. No additional acute findings, no focal TTP of the extremities or joints. No deformities. No focal findings on cardiac US at bedside. 
+
+Assessment/plan: Continue chronic meds as prescribed, Paracetamol as needed for pain. Will return tomorrow for reading glasses evaluation and possible dental evaluation. Recommended follow up for chest pain.",2025-03-25 06:13:51.361,"Severe gum disease 4,5, 12 & 13. Recommend deep clean and new partial.",,
+Fiji Med Health - Mana Island,Seru Niyalo,1983-03-16,male,2025-03-24 06:42:17.931,,179.0,67.4,36.6,119.0,80.0,99.0,58.0,Taking panadol occasionally for pain.,,,,
+Fiji Med Health - Mana Island,Serupepedi Lavata,2011-06-13,male,2024-03-27 00:00:00.000,,168.0,60.2,36.8,,81.0,99.0,,"Currently no meds, nkda, cough & dry throat x1 wk and reports itchy after swimming. No significant pmh, no respiratory distress or abnormal findings upn assessment.",,,,
+Fiji Med Health - Mana Island,Serupepeli Koroitaiti,1964-08-19,male,2024-03-26 00:00:00.000,,173.0,104.7,36.6,92.0,67.0,97.0,82.0,Blurry vision/ pteruqium; dentist 2 - unable to make dental appt for patient.,,,,
+Fiji Med Health - Mana Island,Seruwala Grace Masioliva,2002-07-02,female,2024-03-27 00:00:00.000,,,97.0,36.4,133.0,104.0,98.0,90.0,"Menstrual period cramps x 2 mnths. No current meds, no fam hx, nkda, reports very heavy flow with blood clots and l lower leg scar noted. Educated: goal wt 70 kg, anemia, gave iron tabs #75, ibuprofen 1 tab po bid prn pain #30",,,,
+Fiji Med Health - Mana Island,Setaita Vukaikiwa,2011-02-28,female,2024-03-27 00:00:00.000,,153.0,41.5,36.4,,82.0,100.0,,"No complaints, no meds, normal limits screening scolioisis (-)",,,,
+Fiji Med Health - Mana Island,Seva Valasili,1964-10-20,male,2025-03-25 06:23:39.428,Metformin 500 mg - 60,179.0,91.3,36.2,357.0,86.0,99.0,74.0,"Dental concerns. Hx with DM. No meds currently. Ran out last meds taken was one year ago.
+
+HPI: Has elevated blood sugar, used to be on metformin, but ran out 1 year ago; Has issues with his R lower teeth; no current pain or other complaints
+
+Exam: Dental caries to R lower molars with chipped teeth; Non-focal examination otherwise
+
+Assessment/plan: Will re-start metformin as above, recommended follow up on mainland for continuity of care - referral sent; Dental referral given",2025-03-27 05:03:51.984,BP 130/80,"Paracetamol 500mg - 16, Amoxicillin 500mg - 21, Ibuprofen 400mg - 8","31, 30"
+Fiji Med Health - Mana Island,Sevanaia Valasiri,2014-06-28,male,2025-03-23 23:13:52.078,,145.0,38.1,37.2,,85.0,99.0,74.0,"HPI: no complaints today
+ROS negative 
+PE unremarkable 
+Plan: no need for f/u or referral today. Anticipatory guidance regarding hand hygiene and dental hygiene encouraged.",2025-03-25 19:47:16.910,Fluoride applied to upper and lower,,
+Fiji Med Health - Mana Island,Sevanaia Vatunitu,1982-02-22,male,2024-03-28 00:00:00.000,,179.0,130.4,36.6,176.0,93.0,97.0,110.0,"Borderline htn, dm. Viral uri resolving. Given tylenol 500 mg tid prn #30. Advised on diet/exercise.",,,,
+Fiji Med Health - Mana Island,Shayal Sharma,1994-08-29,female,2025-03-27 21:59:35.608,Paracetomol 500mg - 30,152.0,76.9,36.6,106.0,90.0,99.0,78.0,"No PMH
+Chief Complaint: tooth pain on R lower molars for the past 2 weeks, hurts when eating and is now only eating L side ; patient thinks there is a hole 
+Hx: no medications
+NKA",,,,
+Fiji Med Health - Mana Island,Sikeli KuruKuru,1963-11-22,male,2025-03-24 07:32:14.575,Paracetamol 500 mg - 20,179.0,84.0,36.7,105.0,65.0,99.0,84.0,"No hx. Taking  paradol for generalized pain and L ankle pain.
+
+HPI: Intermittent joint pain, mostly in the left ankle, worse with standing or prolonged walking. Pt also has some difficulty with reading. No additional complaints.
+
+Exam: Unremarkable exam, non-focal assessment.
+
+Assessment/plan: Paracetamol for pain as needed, will return tomorrow for reading glasses.",2025-03-27 06:54:21.008,BP 124/86,"Amoxicillin 500mg - 21, Ibuprofen 400mg - 8, Paracetamol 500mg - 16","22, 23"
+Fiji Med Health - Mana Island,Sikeli Kurukuru,2002-12-05,male,2025-03-24 07:21:20.892,Paracetamol 500 - 30,180.0,68.8,36.8,95.0,75.0,97.0,72.0,"Birth date correction: 12/5/2002.
+
+HPI: C/o lower back pain, increased with working,lifting. No past hx, no past meds.
+ROS: back pain  
+PE unremarkable 
+Plan: no need for f/u or referral today. Education provided on proper body mechanics.",,,,
+Fiji Med Health - Mana Island,Sikeli Lolorua Matamoka,1984-05-20,male,2025-03-25 07:14:53.457,"ibuprofen  400mg - 20, predinsone 20mg - 10, clotrimazole cream 1 application - 1, fluconazole 150mg - 4",71.0,88.8,36.5,112.0,118.0,98.0,102.0,"HPI: Sore throat, body aches, nasal congestion, HA and eye pain x 2 days. Endorses fever as well. Has tried ibuprofen. 
+Gen: Alert and oriented, non-toxic, NAD
+HEENT: Ear canals free of erythema and inflammation bilaterally, no discharge. Bilateral TM gray, normal landmarks. Oropharynx free of erythema, no tonsillar hypertrophy. No cervical lymphadenopathy. 
+Heart: RRR, No GMR
+Lungs: No accessory muscle use. CTA in all lung fields.
+Abdomen: Soft, non-tender
+Dental: Multiple dental carries. Cracked and missing teeth present. Pain with eating present.
+
+Blood pressure rechecked- 150/95
+Plan:
+1. Cracked and missing teeth: dental appt made
+2. Viral URI: ibuprofen prn 
+3. Elevated BP: Return on Friday for BP recheck 
+4. Tinea versicolor: fluconazole 150mg daily x
+prednisone",2025-03-28 00:44:57.038,BP 130/95,"Paracetamol 400 - 16, Ibuprofen 400 - 8, Amoxicillin 500 - 21","1, 4"
+Fiji Med Health - Mana Island,Sikeli Quna,1984-09-11,male,2024-03-24 00:00:00.000,,176.0,80.3,36.8,98.0,83.0,95.0,80.0,"Presents for wellcheck. No current complaints. Bp mildly elevated, possible mild htn. Counseled on diet exercise for bp management",,,,
+Fiji Med Health - Mana Island,Sikeli Ralulu,2022-05-28,male,2025-03-25 22:46:28.911,,96.5,16.0,36.5,,112.0,99.0,48.0,"Rash arms
+Also scabies rash legs
+
+Recent fever/congestion improved.",,,,
+Fiji Med Health - Mana Island,Sikeli Taucilago,2021-03-17,male,2025-03-24 00:04:08.947,,104.0,15.8,36.5,,114.0,98.0,66.0,"CC: Concerns with cough. A febrile. Unknown recurrence of rash scalp.
+
+HPI: Cough for a few days, had a similar cough x3 weeks ago; Has recurrent rash to scalp with mild alopecia
+
+Exam: Resting comfortably, no acute distress; has scattered alopecia rash to the scalp, consistent with tinea capitus, will prescribe fluconazole x3 weeks
+
+Rx: Fluconazole 75 mg q day, x21 days, total of 11 tabs given",,,,
+Fiji Med Health - Mana Island,Simeli Varasikete,2013-05-31,male,2025-03-27 03:40:10.093,,148.0,52.8,36.8,,102.0,100.0,78.0,"CC: patient is requesting dental visit. He reports pain in the left lower teeth. Pain with eating and drinking.
+
+HPI: Has left lower tooth pain, worse with eating, doesn’t brush teeth often
+
+Exam: Cavity and mild erosion of left lower 2nd molar
+
+Assessment/plan: Dental referral for waitlist given",2025-03-27 06:10:45.722,102/78,,19
+Fiji Med Health - Mana Island,Siteri Talei,2011-09-15,female,2025-03-24 00:01:05.529,,139.0,35.1,36.8,,93.0,97.0,68.0,"Actual DOB 9/15/13
+
+HPI: no complaints today
+ROS negative 
+PE: minor dental caries in the left upper 
+Plan: no need for f/u or referral today. Anticipatory guidance regarding hand hygiene and dental hygiene encouraged.",2024-03-29 00:00:00.000,,,
+Fiji Med Health - Mana Island,Siteri Valasiri,2010-12-04,female,2024-03-27 00:00:00.000,,155.0,46.4,36.8,,92.0,98.0,,"Currently no meds, nkda, (b) ear pain x 1 wk, cough, nonproductive x2 weeks, fever a week ago. R ear otis externa, gave cipro bid x 7 days ble rash consistant with ringworm, gave clotrimazole bid x 14 days",,,,
+Fiji Med Health - Mana Island,Siteri Valasiri Vata,1969-10-10,female,2025-03-25 00:03:54.634,"Diphenhydramine 25 mg - 30, Prednisone 20 mg - 10",171.0,102.0,36.6,130.0,91.0,99.0,82.0,"CC: C/o rash on shoulders and arms bilateral x1 month.  
+Med Rx: No hx, no meds, no allergies.
+
+HPI: Rash to shoulders and upper arms for 1 month, itchy, slight improvement recently
+
+Exam: Maculopapular rash to bilateral upper extremities and shoulders, no significant erythema or purulence
+
+Assessment/plan: Likely dermatitis rash/reaction to bilateral upper extremities and shoulders, possible mild heat rash; medications given as noted above",,,,
+Fiji Med Health - Mana Island,Sitineni Nuakitogo,1993-05-28,male,2024-03-29 00:00:00.000,,184.0,115.1,36.3,80.0,82.0,97.0,90.0,"Check up; 2 recent boils drained & wanted reviewed. Also wanted teeth checked out. Dental -1 seen 3/29/2024; amox, ibu, and paracetomol given from dental clinic.",2024-03-29 00:00:00.000,,,
+Fiji Med Health - Mana Island,Sitiveni Muaktoga,2019-10-18,male,2025-03-23 22:04:41.806,,117.0,21.2,36.8,,75.0,97.0,78.0,"HPI: no complaints today
+ROS negative except minor cough 
+PE unremarkable except minor cavities to lower bilateral teeth. Lungs CTA
+Plan: no need for f/u or referral today. Anticipatory guidance regarding hand hygiene and dental hygiene encouraged.",2025-03-24 06:32:14.775,Flouride tx applied to upper and lower teeth,,T
+Fiji Med Health - Mana Island,Solomoni Koto,2021-02-01,male,2025-03-25 05:31:26.099,,100.0,14.0,37.1,,68.0,99.0,,"Chief Complaint: left foot skin issue, would like dental referral 
+Hx: none
+NKA
+
+HPI: Has a minor scratch or bug bite to left foot causing some pain; has poor dentition and dental pain for many days
+
+Exam: Multiple dental caries and chipped teeth to the primary upper incisors; small scratch vs insect bite to left foot, no swelling/erythema
+
+Assessment/plan: Paracetamol as needed for pain; dental referral",2025-03-27 04:13:14.334,"BP 94/62
+Exam and fluoride tx",,
+Fiji Med Health - Mana Island,Solomoni Sigakalele,1995-01-28,male,2025-03-25 06:41:39.622,,192.0,119.0,36.4,95.0,83.0,99.0,86.0,"HPI: General checkup. Wants dental cleaning
+PE: 
+Gen: Alert and oriented, non-toxic, NAD
+HEENT: Ear canals free of erythema and inflammation bilaterally, no discharge. Bilateral TM gray, normal landmarks. Oropharynx free of erythema, no tonsillar hypertrophy. No cervical lymphadenopathy. 
+Heart: RRR, No GMR
+Lungs: No accessory muscle use. CTA in all lung fields.
+Abdomen: Soft, non-tender
+Dental: Mildly cracked teeth to front upper gums
+Plan: 
+1. anticipatory guidance re: teeth brushing. questions answered",,,,
+Fiji Med Health - Mana Island,Sovaia Valasiri,1995-07-15,female,2024-03-25 00:00:00.000,,165.5,66.4,36.6,110.0,91.0,98.0,80.0,"Suspected uti given cipro 500 mg, lbp intermittent given ibuprofen 200 mg",,,,
+Fiji Med Health - Mana Island,Sumasafu Faga,1983-08-31,male,2025-03-25 06:28:37.078,,183.0,119.3,36.3,123.0,72.0,97.0,86.0,"HPI: General checkup
+ROS: Negative for all systems
+PE: 
+Gen: Alert and oriented, non-toxic, NAD
+HEENT: Ear canals free of erythema and inflammation bilaterally, no discharge. Bilateral TM gray, normal landmarks. Oropharynx free of erythema, no tonsillar hypertrophy. No cervical lymphadenopathy. 
+Heart: RRR, No GMR
+Lungs: No accessory muscle use. CTA in all lung fields.
+Abdomen: Soft, non-tender
+Dental: Multiple dental carries. Cracked and missing teeth present. 
+Plan: 
+1. No abnormalities on exam today",,,,
+Fiji Med Health - Mana Island,Susana Nainima,1997-05-31,female,2025-03-24 05:22:38.836,Motrin 400 mg - 30,160.0,91.4,36.7,129.0,76.0,99.0,74.0,"HPI: headaches intermittently for years, looking at computer and reading makes it worse, blurry vision to L eye, photo and photophobia, sleeping or a dark quiet room makes her headaches better
+ROS:
+Headaches 
+Stomach pain only during headaches  
+PE unremarkable 
+Plan: no need for f/u. Motrin for headaches. Advised patient to see optometry on main island.",2024-03-29 00:00:00.000,,,
+Fiji Med Health - Mana Island,Suzi Veniana,2023-06-21,female,2025-03-25 00:29:19.566,Hydrocortisone 1 packet - 3,80.0,9.5,36.3,,152.0,99.0,,"CC: Rash to lower back
+Hx: None
+
+HPI: Has a mild rash to the lower back and buttocks that started yesterday. Otherwise healthy, feeding well, no further concerns.
+
+Exam: Mild dermatitis rash to lower back, no additional focal findings, otherwise healthy and non-toxic appearing
+
+Assessment/plan: Hydrocortisone cream to lower back for 2-3 days as needed for rash; vitamins given, encouraged on continued health maintenance",,,,
+Fiji Med Health - Mana Island,Taina Buli,2000-01-01,female,2024-03-26 00:00:00.000,,124.0,25.6,36.5,,125.0,100.0,,Check up; screening; negative scoliosis,,,,
+Fiji Med Health - Mana Island,Taina Ratu,2016-02-13,female,2025-03-23 22:48:52.089,,130.0,28.8,36.5,,108.0,98.0,74.0,"Full name is Taina Buli Ratu. 
+HPI: C/onL knee pain (skin lesion) and L molar pain 
+ROS rash, tooth pain  
+PE L knee with skin lesion that has yellow exudate (mild), no erythema or heat, no indication. L lower tooth with dental carries. otherwise PE unremarkable  
+Plan: RX bacitracin  ointment BiD TAA x10 days
+Dispense 10 packets 
+Anticipatory guidance regarding hand hygiene and dental hygiene encouraged.",2025-03-25 19:38:41.583,Fluoride tx applied to upper and lower teeth,,
+Fiji Med Health - Mana Island,Taitusi Nagone,2010-05-12,male,2024-03-27 00:00:00.000,,169.0,62.8,36.7,,68.0,99.0,,Chronic otitis. Ruptured tm from free diving. No perf. Seen. Within normal limits scoliosis negative. Given amoxicillin 500 mg po bid. No diving for 10 days.,,,,
+Fiji Med Health - Mana Island,Taniela Naitaunizalo,2000-01-01,male,2024-03-26 00:00:00.000,,185.0,115.2,36.7,96.0,77.0,97.0,102.0,49m no significant pmhx here for vision problems and ear problems; pt reports difficulty reading small print; hx of prior finger dislocation 10 years ago; pt also reports bilateral ear discomfort after diving; start course of cipro,,,,
+Fiji Med Health - Mana Island,Teatu Reni,1963-12-02,male,2024-03-24 00:00:00.000,,168.0,108.4,36.4,91.0,67.0,97.0,72.0,"Goal wt: 90 kg, goal bp <140/90 monitor at home, has home cuff. No concerns and trying to exercise more.",,,,
+Fiji Med Health - Mana Island,Temo Rosi,2010-01-08,female,2024-03-27 00:00:00.000,,149.0,46.9,36.9,,104.0,95.0,,"Cough white mucus for 3 days, headaches, vomit x1 monday, fever and dizziness on friday. Left leg pain from walking on monday. No current meds. Bronchitis vs pneumonia, rales. Rx: amoxicillin chew 250g tid, tylenol chew 1-2 tid prn/ follow up in 2-3 days",,,,
+Fiji Med Health - Mana Island,Tevita Biaukula,1976-06-20,male,2025-03-28 00:07:38.321,,172.0,80.0,36.8,98.0,72.0,95.0,78.0,"Chief Complaint: vision difficulties, low back pain that affects his ability when getting out of bed sometimes
+Hx: patient had previous incident with a grease cutter at work 10 years ago which has affected his eyesight; smashed head on dashboard 8 years ago
+socially drinks, smokes 2-3 rolls after work 
+NKA
+
+HPI: Has blurry vision to left eye for many years from prior injury, no current pain; has some glasses that he uses occasionally, but does not have prescription glasses; has some knee pain and low back pain after working, or earlier in the morning;
+
+Exam: Poor dentition; non-focal examination otherwise 
+
+Assessment/plan: Reading glasses provided in clinic; encouraged to follow up on the mainland for eye doctor follow up; counseled on smoking cessation; BP and blood sugar normal",,,,
+Fiji Med Health - Mana Island,Tevita Kafoa,2024-07-20,female,2025-03-24 23:44:25.910,Clotrimazole 1 application - 1,71.0,9.9,36.6,,,,,"HPI: 
+#Productive cough and Nasal congestion x1 week. No fever. No pmhx. 
+#Forehead with hypopigmented lesions.
+ROS: Negative for all systems
+PE: 
+Gen: Alert and oriented, non-toxic, NAD
+HEENT: Ear canals free of erythema and inflammation bilaterally, no discharge. Bilateral TM gray, normal landmarks. Oropharynx free of erythema, no tonsillar hypertrophy. No cervical lymphadenopathy. 
+Heart: RRR, No GMR
+Lungs: No accessory muscle use. CTA in all lung fields.
+Abdomen: Soft, non-tender
+Plan: 
+1. Tinea versicolor: clotrimazole cream BID
+2. Viral URI, supportive care discussed. Return precautions discussed. 
+
+No read for pulse or O2 saturation
+NKA",,,,
+Fiji Med Health - Mana Island,Tevita Saila,2000-01-01,male,2024-03-26 00:00:00.000,,133.0,27.5,36.9,,103.0,97.0,,"Dentail pain, upper; (-) for scoliosis",2024-03-28 00:00:00.000,,,
+Fiji Med Health - Mana Island,Tevita Sailasa,2015-06-24,male,2025-03-23 23:01:09.736,,141.0,31.5,36.7,,101.0,98.0,84.0,"HPI: Presents for well-child examination, no acute complaints
+
+Exam: Non-focal examination, no acute findings/abnormalities
+
+Assessment: Continue routine health maintenance",2025-03-25 19:31:50.344,"Fluoride applied to upper and lower
+
+BP 110/70",,"A, 14, K"
+Fiji Med Health - Mana Island,Theresa Vunisa,2022-10-12,female,2025-03-25 06:07:28.378,"children multivitamin 1 - 60, tylenol  3ml - 150",89.0,11.4,37.7,,127.0,97.0,,"CC: Concerns with runny nose and coughing x3days.
+HPI: As above. Decreased appetite since Monday. Last fever today. Fussy. Cough productive. 
+Also states pt has become a picky eater, not a lot of fruits and veggies. 
+PE: 
+Gen: Alert and oriented, non-toxic, NAD
+HEENT: Ear canals free of erythema and inflammation bilaterally, no discharge. Bilateral TM gray, normal landmarks. Oropharynx free of erythema, no tonsillar hypertrophy. No cervical lymphadenopathy. 
+Heart: RRR, No GMR
+Lungs: No accessory muscle use. CTA in all lung fields.
+Abdomen: Soft, non-tender
+Plan: 
+1. Viral URI: tylenol prn pain 
+2. Picky eater: multivitamins daily",,,,
+Fiji Med Health - Mana Island,Timaima Bokonaqiwa,2012-10-09,female,2025-03-24 21:42:57.888,,156.0,92.8,36.6,,78.0,98.0,86.0,"CC: Well-child visit, no concerns
+Med hx: None
+
+HPI: No concerns, presents for well-child examination; no complaints at this time
+
+Exam: Non-focal examination, healthy teeth overall
+
+Assessment/plan: Continue routine health maintenance",2025-03-25 19:48:16.324,Fluoride applied to upper and lower,,
+Fiji Med Health - Mana Island,Timaima Kumari,1992-09-22,female,2025-03-24 23:18:43.017,Diphenhydramine 25 mg - 30,161.0,76.5,36.4,115.0,61.0,97.0,76.0,"CC: Concerns with inability to sleep, has  Rheumatic Heart Disease (RHD) stopped taking medication last year (Benza) due to undesirable side effects (weaknesses, dizzy, drowsy, couldn’t gain weight).
+
+HPI: Seen last year, no major complaints, hx of RHD, not on medications now. No chest pain or shortness of breath. Patient does report some mild weight gain recently, as well as some insomnia. No additional complaints, has been regularly active and eating healthy.
+
+Exam: No focal findings, no thyromegaly. Exam grossly unremarkable. 
+
+Assessment/plan: Benadryl as needed for insomnia as prescribed above; Encouraged healthy diet/exercise. Minor BMI increase since last year, counseled on continued monitoring. Will follow up on the mainland if continuing to have unintentional increases in weight.",,,,
+Fiji Med Health - Mana Island,Timoci Buli,2018-05-22,male,2025-03-23 22:02:02.542,,,,36.7,,116.0,98.0,59.0,"HPI: C/o breaking out in a rash when he eats salty food.
+ROS: itchiness and open sores
+PE: open sores on bilateral lower extremities
+Plan: no need for f/u or referral today. Anticipatory guidance regarding hand hygiene and dental hygiene encouraged. Advised to avoid food triggers and stop scratching sores to prevent infection. 
+
+Bacitracin Ointment 
+1 application BID x 10 days 
+11 individual packets given",2025-03-25 19:24:04.255,Fluoride tx applied to upper and lower teeth,,"L, S, T, K"
+Fiji Med Health - Mana Island,Timoci Qoro,1966-07-16,male,2024-03-29 00:00:00.000,,172.0,91.7,36.4,289.0,83.0,95.0,74.0,"Hearing check up; declines etoh or smoking use, no pmh, or no medications. Reports dificulty hearing, mild cough but improving. Upon assessment r ear shows otitis extern, gave cipro drops (2) bid x 7 days. Elevated glucose levels, and patient reported had not eaten this morning yet, started patient on metformin 500 mg bid #30; samples given. Educated on diet and glucose too.",,,,
+Fiji Med Health - Mana Island,Timoci Qoro,2016-11-27,male,2025-03-23 22:37:34.114,,142.0,40.4,36.2,,74.0,98.0,78.0,"HPI: Presents for well-child examination, no acute complaints
+
+Exam: Dental caries present, non-focal examination otherwise
+
+Assessment: Dental referral, continue routine health maintenance",2025-03-25 19:37:06.614,"Fluoride tx applied to upper and lower teeth
+
+BP 110/78",,S
+Fiji Med Health - Mana Island,Timoci Voka,2004-02-26,male,2025-03-24 05:11:21.449,,174.0,75.3,36.6,117.0,70.0,96.0,81.0,"CC: Concerns with multiple teeth.
+
+HPI: Has multiple teeth causing pain, particularly with eating
+
+Exam: Multiple dental caries and chipped teeth: L posterior molar, R lateral incisor, and bottom R molar with cavities and chipped portions
+
+Assessment/Plan: Refer to dentist for further evaluation
+
+Rx: N/A",2025-03-24 06:50:55.389,,"Acetaminophen  500 - 16, Amoxicillin 500 - 21, Ibuprofen  400 - 8","8, 7"
+Fiji Med Health - Mana Island,Timoci Voka,1970-08-22,male,2025-03-25 06:04:07.725,,181.5,120.0,36.5,122.0,90.0,100.0,98.0,"Chief Complaint: pain in L leg when moving
+Hx: no medications
+NKA
+
+HPI: L knee pain, chronic, worse with prolonged standing or movement
+
+Exam: Non-focal findings, left knee unremarkable on exam
+
+Assessment/plan: Paracetamol as needed for knee pain; BP mildly elevated in clinic, encouraged healthy eating, diet, exercise, and weight loss given elevated BMI; recommended follow up and re-check in 1-2 months, or will re-evaluate next year",,,,
+Fiji Med Health - Mana Island,Timoci Wainiqolo,2004-08-05,male,2024-03-27 00:00:00.000,,,64.8,36.6,104.0,59.0,98.0,76.0,"Check up exam; nkda, no medications, declines pain. Reports smokes 1 pack of cigarettes/day, drinks etoh and kava. Educated on lifestyle changes, states will try to cut back on smoking.",,,,
+Fiji Med Health - Mana Island,Timothy Buli,2018-02-04,male,2024-03-24 00:00:00.000,,131.0,42.7,37.3,,130.0,96.0,,"No allergies, fam hx of dm, maternal side. Here for left side ear pain, no focal exam finding, tm clear bilaterally, gave tylenol 15 ml bid/prn pain",,,,
+Fiji Med Health - Mana Island,Toma Buli,1973-07-21,male,2025-03-25 21:34:44.786,,175.0,91.4,36.2,94.0,61.0,95.0,74.0,"Chief Complaint: difficulty reading, general checkup
+HPI
+#Substernal chest pain once per month, occurs at rest or activity, pain lasts 5-10 minutes, nothing makes pain worse or better. First episode 1.5yrs. 
+#Reading glasses
+Hx: no medications, smoker 3-4 rolls per day
+       2019 hospital admittance for SOB
+NKA
+PE: 
+Gen: Alert and oriented, non-toxic, NAD
+HEENT: Ear canals free of erythema and inflammation bilaterally, no discharge. Bilateral TM gray, normal landmarks. Oropharynx free of erythema, no tonsillar hypertrophy. No cervical lymphadenopathy. Cracked tooth with cavity to R upper mouth. 
+Heart: RRR, No GMR
+Lungs: No accessory muscle use. CTA in all lung fields.
+Abdomen: Soft, non-tender
+Plan:
+1. Presbyopia: sent to rx table for reading glasses 
+2. Smoker: smoking cessation advised. Pt has cut down on smoking since last year.",,,,
+Fiji Med Health - Mana Island,Tomasi Buli,1979-07-23,male,2024-03-24 00:00:00.000,,179.0,103.9,36.4,82.0,79.0,98.0,92.0,"Pain in left knee, lower back, achilles and unable to name the medication taken at home for pain. Htn, no meds given possible r/t pain response. Suspect djd 2 deg to old rugby knee injury. Motrin 400 mg given bid, prn #30.",,,,
+Fiji Med Health - Mana Island,Torika Neisoni,1978-07-03,female,2025-03-25 22:47:24.190,ibuprofen  400mg - 30,170.0,131.0,36.7,96.0,78.0,97.0,82.0,"Chief Complaint: experiencing achy back pain in her bones, which worsens during the day with movement such as lifting/twisting/etc. 
+Hx: HTN, no medications
+NKA
+HPI: Low back pain, chronic. Non-radiating. Worse with activity
+PE: no abnormalities noted 
+Plan:
+1. Chronic LBP: Ibuprofen 400mg prn
+2. HTN: BP elevated last year as well. 
+3. L calcaneal cyst. Rest will usually improve symptoms.",,,,
+Fiji Med Health - Mana Island,Torika Uluitoga,1994-06-06,female,2024-03-27 00:00:00.000,,173.0,103.8,36.7,123.0,76.0,96.0,90.0,"Reports intermitten cp, exercise exacerbation, knee pain during the cold. Fam hx of dm. Reports smokes and drinks every 2 weeks. Wnl exam findings, educated on smoking cessation.",,,,
+Fiji Med Health - Mana Island,Tuibua Nabola,1991-05-01,male,2025-03-25 05:44:23.468,,182.0,59.1,36.9,77.0,81.0,99.0,82.0,"CC: Concerns with dental pain. 
+Med hx: On TB abx x 2months.
+
+HPI: Has some dental pain to the left upper molar for 1 year, R lower molar with mild discomfort; on abx for previous TB, has been compliant with regimen
+
+Exam: Chipped tooth to left upper molar, no additional focal findings
+
+Assessment/plan: Dental referral given, continue routine health maintenance",2025-03-26 06:43:40.125,BP 112/74,,30
+Fiji Med Health - Mana Island,Tunidua Naiko,1984-04-24,male,2025-03-25 05:13:45.662,Losartan 50mg - 60,183.0,136.4,36.4,126.0,103.0,98.0,96.0,"Tooth ache disturbing sleep. Left lower Was given pain medfrom resort nurse. No hx.
+HTN—start on losartan
+Tob use will quit by next year",2025-03-26 05:30:58.539,BP 142/94,"Amoxicillin 500mg - 21, Paracetamol 500mg - 16, Ibuprofen 400mg - 8",17
+Fiji Med Health - Mana Island,Ulaiasi Ranamv,1996-01-25,male,2024-03-28 00:00:00.000,,185.0,76.5,36.6,,,,,Dental screen + tooth extracted. Paracetamol 500 mg po q4h prn pain. Salt water rinses.,2024-03-29 00:00:00.000,,,
+Fiji Med Health - Mana Island,Ulaiasi Rosolosolo,1998-05-23,male,2025-03-24 21:52:38.292,,173.0,79.8,37.0,92.0,84.0,99.0,90.0,"HPI: 
+#R knee pain from rugby from 2018. R knee gives way. Intermittent pain. 
+#Has toothache in R lower mouth and tooth has been swelling intermittently for the past week. Denies fever  
+PE: 
+Gen: Alert and oriented, non-toxic, NAD
+HEENT: Ear canals free of erythema and inflammation bilaterally, no discharge. Bilateral TM gray, normal landmarks. Oropharynx free of erythema, no tonsillar hypertrophy. No cervical lymphadenopathy. 
+Heart: RRR, No GMR
+Lungs: No accessory muscle use. CTA in all lung fields.
+Abdomen: Soft, non-tender
+Dental: Multiple dental carries. Cracked R lower tooth. 
+Plan: 
+1. Cracked tooth: referral to dental, Sandi made appt for patient
+2. R knee pain. ACE wrap given. RICE.",2025-03-25 21:16:33.938,BP 122/80,"Ibuprofen 400 mg - 8, Amoxicillin 500 mg - 21, Acetaminophen 500 mg - 16",1
+Fiji Med Health - Mana Island,Ulamila Wal,2000-01-30,female,2025-03-25 22:54:37.685,,163.0,78.8,36.0,72.0,90.0,99.0,68.0,"Chief Complaint: rash for a month on forearms and underarms, keeps itching and has a little bit of clear drainage 
+Hx: none, no medications 
+Allergy: eggplant
+
+HPI: Has a recurrent rash for multiple weeks to bilateral arms and R armpit, associated pruritis
+
+Exam: Hyperpigmented rash to flexor folds of bilateral AC areas of BUE and R armpit, mild excoriations
+
+Assessment/plan: Rash likely 2/2 dermatitis/eczema, given flexor surface location and rash appearance; will give hydrocortisone cream to use as needed for treatment",,,,
+Fiji Med Health - Mana Island,Una Laginagi,1991-09-27,female,2024-03-28 00:00:00.000,,170.0,107.6,36.2,106.0,96.0,99.0,92.0,No pmhx. Here for wellcheck. Counseled on bmi and diet. No additional acute findings or complaints. No meds. No eyes or dental complaints.,,,,
+Fiji Med Health - Mana Island,Unaisi Lagilagi,1989-09-27,female,2025-03-24 00:11:46.654,,172.0,109.0,36.2,62.0,79.0,99.0,70.0,Concerns with teeth—dental pain. Bilateral lower back teeth.,2025-03-25 05:06:40.212,BP 128/82,"Acetaminophen 500 - 16, Ibuprofen 400 - 8",17
+Fiji Med Health - Mana Island,Unaisi Sosd,2000-06-09,female,2024-03-24 00:00:00.000,,164.5,71.3,36.7,123.0,96.0,97.0,78.0,7 months pregnant. Back pain. Given tylenol 1 tab po bid prn back pain,,,,
+Fiji Med Health - Mana Island,Usaia Gonevuke,2001-07-23,male,2025-03-24 23:21:18.889,Bacitracin 1 Application - 15,172.0,85.6,36.3,101.0,63.0,96.0,84.0,"HPI: 
+#R lower tooth pain. No fever. No discharge. 
+# laceration to R thumb while sharpening a knife
+PE: 
+Gen: Alert and oriented, non-toxic, NAD
+Skin: Small laceration to R thumb that has edges approximated. No erythema, heat or discharge.
+Heart: RRR, No GMR
+Lungs: No accessory muscle use. CTA in all lung fields.
+Dental: Multiple dental carries. Cracked and missing teeth present, most prominent on R lower mouth.
+Plan: 
+1. Cracked tooth: dental appt made
+2. R thumb laceration: bacitracin to prevent infection.",2025-03-25 22:59:56.461,BP 122/78,"Paracetamol 500mg - 16, Ibuprofen 400mg - 8",31
+Fiji Med Health - Mana Island,Vaciseva Varasikete,1978-01-16,female,2025-03-25 05:35:20.252,,167.0,112.0,36.4,122.0,77.0,97.0,90.0,"No hx no meds. 
+Concerns with vision—difficult reading close
+Pterygium L eye
+Dental—upper left—feels part of tooth still present in gum",2025-03-26 05:06:43.752,BP 140/90,,11
+Fiji Med Health - Mana Island,Valavia Bosele,2023-06-11,female,2024-03-24 00:00:00.000,,70.0,10.0,36.7,,92.0,97.0,,"Cough for past 3 weeks and improving. Eating less, drinks milk well. R ear infection. Given amoxicillin liquid, 2.5 ml po bid x 10 days, give in syringe.",,,,
+Fiji Med Health - Mana Island,Vanavasa Naluwau,1962-06-05,male,2025-03-25 07:02:44.848,ofloxacin opthalmic  1 drop - 1,171.0,99.2,36.1,133.0,78.0,97.0,90.0,"Chief Complaint: general checkup and R eye felt like foreign body flew into it yesterday. 
+Hx: none, no medications
+NKA
+PE: No foreign body or obvious laceration noted 
+1. Corneal abrasion versus foreign body: ofloxacin eye drops",,,,
+Fiji Med Health - Mana Island,Vani Turagaca,1977-08-19,female,2024-03-26 00:00:00.000,,169.5,129.3,37.2,110.0,97.0,97.0,100.0,"46f hx of htn for blood pressure check + r ear pain bp elevated improved from piror; pt is compliant of lisinopril, bs stable; pt with some headache intermittently with eye straining; pt also has some tooth problems; r ear shows otitis externa; cipro given",,,,
+Fiji Med Health - Mana Island,Vatili Turuva,1970-05-04,male,2025-03-25 23:39:54.418,"triple antibiotic ointment 1 application - 10, losartan 50mg - 90",175.0,135.0,36.6,102.0,90.0,97.0,94.0,"Chief Complaint: general checkup, a piece of wood fell on R second toe today, minor abrasion
+Hx: previous blood pressure medication 1.5 yrs ago, unknown name and dose
+NKA
+PE: Unremarkable except R second toe with minor abrasion, no secondary infection noted at this time
+Plan: 
+1. HTN: Losartan, f.u on mainland for continuation of care 
+2. abrasion: triple abx ointment 
+3. Obesity: Education given",,,,
+Fiji Med Health - Mana Island,Vaula Rasaga,1963-02-16,male,2024-03-24 00:00:00.000,,177.0,93.3,36.5,103.0,71.0,95.0,92.0,"Htn d/c etoh/kava, djd knee/back, smoker/cough. Given tylenol 500 mg 1 tab bid prn, hydrocortisone top b/d",,,,
+Fiji Med Health - Mana Island,Veniana Sere,1973-12-29,female,2024-03-27 00:00:00.000,Triple antibiotic ointment 1 application - 10,147.0,54.5,37.0,121.0,63.0,98.0,72.0,"HPI: 
+#General checkup
+#Rash to R upper arm x4 months, itchy
+Hx: none
+NKA
+ROS: Negative for all systems
+PE: 
+Gen: Alert and oriented, non-toxic, NAD
+Skin: excoriated insect bites, some open but no erythema or heat
+HEENT: Ear canals free of erythema and inflammation bilaterally, no discharge. Bilateral TM gray, normal landmarks. Oropharynx free of erythema, no tonsillar hypertrophy. No cervical lymphadenopathy. 
+Heart: RRR, No GMR
+Lungs: No accessory muscle use. CTA in all lung fields.
+Abdomen: Soft, non-tender
+Dental: Mild dental carries
+Plan: 
+1. Rash R arm: triple abx ointment BID prn 
+2. General health maintenance education",,,,
+Fiji Med Health - Mana Island,Veve Alosio,2020-12-24,male,2024-03-27 00:00:00.000,,,6.4,36.7,,,,,Age + uri. Given tylenol liquid 60 mg po bid prn fever/pain,,,,
+Fiji Med Health - Mana Island,Vika Digasau,1996-04-05,female,2025-03-27 05:31:34.600,"Iron tablets 65 - 90, Paracetamol 500mg - 30",168.0,89.35,36.9,79.0,97.0,99.0,84.0,"Chief Complaint: some abdomen pain from previous C-section scar. 
+experiences headaches in hot weather, general checkup 
+
+Hx: C-section in 2020, socially drinks 
+NKA",2024-03-27 00:00:00.000,,,
+Fiji Med Health - Mana Island,Vika Momolevy,2023-06-07,female,2024-03-24 00:00:00.000,,71.0,9.5,36.8,,,,,Scabies. Apply permethrin small amt ointment to rash once daily for 10 days,,,,
+Fiji Med Health - Mana Island,Vikaili Lati Rakariu,2015-07-08,female,2025-03-23 23:08:12.087,,130.0,32.2,37.1,,70.0,99.0,82.0,"C/o cough x1 day. Non productive. Baby sis has cough as well.
+HPI: no complaints today
+ROS negative 
+PE: 
+Open sores on right leg, above knee 
+Mild dental caries  
+Plan: no need for f/u or referral today. Anticipatory guidance regarding hand hygiene and dental hygiene encouraged.
+Rx: 
+Bacitracin ointment 
+1 application BID x10 days 
+x10 packets",2025-03-25 19:37:51.404,Fluoride applied to upper and lower,,
+Fiji Med Health - Mana Island,Vikatoria Marama,1992-02-15,female,2025-03-25 05:38:24.554,,170.0,91.5,36.1,93.0,64.0,99.0,76.0,"No hx no meds.
+Med: Depo provera injection for family planning. HPI: General checkup
+PE: 
+Gen: Alert and oriented, non-toxic, NAD
+HEENT: Ear canals free of erythema and inflammation bilaterally, no discharge. Bilateral TM gray, normal landmarks. Oropharynx free of erythema, no tonsillar hypertrophy. No cervical lymphadenopathy. 
+Heart: RRR, No GMR
+Lungs: No accessory muscle use. CTA in all lung fields.
+Abdomen: Soft, non-tender
+Dental: Fair dentition 
+Plan: 
+1. HA related to hormonal contraception. See PCP for possible change in medication. Education re: absence of menses normal on hormonal injection given.",,,,
+Fiji Med Health - Mana Island,Viliame Kadivuka,1979-11-15,male,2025-03-25 06:31:19.180,,182.0,87.6,36.1,100.0,71.0,98.0,70.0,"Chief Complaint: general checkup
+Hx: none, no medications
+NKA",,,,
+Fiji Med Health - Mana Island,Viliame Sery,1981-10-09,male,2024-03-24 00:00:00.000,,184.5,94.4,36.5,114.0,81.0,96.0,83.0,"Reports hard to open eyes after sleeping and morning discharge for the last 2 months. No significant changes in vision, reports the discharge and does not wear glasses and no other s/sx to report.",,,,
+Fiji Med Health - Mana Island,Viliame Tuivanua,1981-08-07,male,2025-03-26 06:57:32.987,,179.0,93.5,35.9,95.0,75.0,95.0,82.0,"CC: General check up, no major complaints
+
+HPI: Has a small boil to the R leg, no major drainage, no additional complaints at this time
+
+Exam: Non-focal exam; declines exam of boil area
+
+Assessment/plan: Continue routine health maintenance; vision loss in right eye chronic, no major changes recently; educated on follow up on the mainland for vision as needed",,,,
+Fiji Med Health - Mana Island,Vilisi Vakaola,1974-03-10,female,2025-03-24 07:14:58.273,,162.0,88.9,36.7,118.0,72.0,97.0,102.0,"No hx, no meds. 
+Concerns with dental, upper left feels piece of tooth is still imbedded.",2025-03-24 21:15:38.972,BP 128/72,"Acetaminophen 500 - 16, Ibuprofen 400 - 8",14
+Fiji Med Health - Mana Island,Viniana Toroca,1997-03-30,female,2025-03-24 06:18:41.829,,165.0,86.2,36.8,82.0,87.0,99.0,84.0,R eye conjunctivitis,,,,
+Fiji Med Health - Mana Island,Vivianne Ada Faith Tokovou,2016-02-24,female,2025-03-23 22:47:45.170,,132.0,27.1,36.9,,81.0,99.0,78.0,"HPI: no complaints today
+ROS negative 
+PE unremarkable 
+Plan: no need for f/u or referral today. Anticipatory guidance regarding hand hygiene and dental hygiene encouraged.",2025-03-24 06:29:53.638,Flouride tx applied to upper and lower teeth,,J
+Fiji Med Health - Mana Island,Vivianne Tokouou,2016-06-29,female,2024-03-26 00:00:00.000,,126.0,25.2,36.9,,85.0,99.0,,7f no pmhx; here for well check; nad no focal exam findings; vitals unremarkable; no dental c/o,,,,
+Fiji Med Health - Mana Island,Vuniani Ratu,1988-06-18,male,2024-03-26 00:00:00.000,,,,36.6,,,,,Fever- vomiting-sob-cold symptoms just started today; no abd pain; vomited x1; naproxen 400 mg po tid prn pain/fever,,,,
+Fiji Med Health - Mana Island,Waisake Vunisa,1997-02-03,male,2024-03-27 00:00:00.000,,,98.2,36.5,81.0,64.0,97.0,82.0,Lateral rib pain intermittants. Tobacco use. Given ibuprofen 200 mg po bid prn pain. 3/28 check up rash to rle likely mild keloid scar. Given ibuprofen 200 mg w/ 500 mg acetaminophen q8h for 3 days.,2024-03-28 00:00:00.000,,,
+Fiji Med Health - Mana Island,Waisale Cava,1986-04-30,male,2025-03-24 23:39:38.898,,178.0,119.6,36.8,86.0,82.0,97.0,102.0,"CC: Dental pain
+Med hx: No past hx, no meds, no allergies.
+
+HPI: Dental pain in multiple areas, worse with eating, no further complaints
+
+Exam: Multiple chipped teeth and dental caries, R lower molar, R upper molar, no facial swelling
+
+Assessment/plan: BP mildly elevated, re-check in clinic showed 132/108. Encouraged on healthy diet/exercise. Will defer medication management at this point given isolated visit. Dental appt given for dental caries and broken teeth.",2025-03-25 21:42:01.011,BP 132/98,,29
+Fiji Med Health - Mana Island,Waisale Tuidekei,2010-10-28,male,2024-03-27 00:00:00.000,,167.0,55.4,36.2,,67.0,97.0,,"No significant pmhx. Presents for itchy hands and well check. Findings on hands likely 2/2 scabies rash. No further acute findings. Rx: permethrin cream 1 dose, ivermectin 12 mg 1 dose",,,,
+Fiji Med Health - Mana Island,Waisea Delailovu,1996-09-25,male,2025-03-25 05:18:12.893,,186.5,107.9,36.4,111.0,75.0,97.0,82.0,"Chief Complaint: forehead to be seen, would like to see the dentist
+Hx: smokes 6-7 rolls a day
+NKA
+
+HPI: Has some dental pain and multiple chipped teeth, requesting extraction; Has a small lump to the forehead, similar to last year; eats variable diet, lots of fried/oily foods
+
+Exam: Small fluctuant swelling over the forehead, no erythema/drainage; Multiple missing teeth, chipped tooth and dental caries to multiple molars
+
+Assessment/plan: Counseled on weight loss given BMI increase since last year, healthy eating and exercise; Dental appt made for evaluation; no current intervention for forehead lipoma",2025-03-26 05:56:33.677,BP 120/80,"Paracetamol 500mg - 16, Ibuprofen 400mg - 8",14
+Fiji Med Health - Mana Island,Waisea Nala,2006-05-14,male,2024-03-26 00:00:00.000,,176.0,69.8,36.8,87.0,78.0,99.0,80.0,19m no sig pmhx presents for r 3rd toe pain; the proximal + distal phalanx; no mtp joint pain; tape applied to toes; ptatient encouraged for sx management at home,,,,
+Fiji Med Health - Mana Island,Waisea Ratu,1967-06-28,male,2024-03-27 00:00:00.000,,,102.9,36.3,99.0,55.0,99.0,86.0,"Pain in l lower back, chronic and long hx, plays rugby and takes paracetamol, also reports has stressful work enviornment, 8 works nightshift; gave ibuprofen 200 mg bid/prn",,,,
+Fiji Med Health - Mana Island,Watekini Tawase,1962-11-27,male,2024-03-28 00:00:00.000,,176.0,100.1,35.9,87.0,77.0,96.0,83.0,Cyst forhead. Dsd knees. Near vision. Opth. Tylenol 500 mg tid prn #30,,,,
+Fiji Med Health - Mana Island,Winiana Toroca,1997-03-03,female,2024-03-26 00:00:00.000,,165.0,83.2,36.4,122.0,93.0,99.0,70.0,"Headaches- ibuprofen 200 mg po bid; needs vision check, dental 2 for impacted teeth, no appt was made for dental.",,,,
