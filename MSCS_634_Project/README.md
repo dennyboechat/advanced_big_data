@@ -4,6 +4,9 @@ Course: Advanced Big Data and Data Mining (MSCS-634-B01).
 
 Deliverable 4: Data Mining Techniques for a Healthcare Dataset
 
+Presentation link:
+https://youtu.be/jwTWTobmInQ
+
 ## The dataset
 The selected dataset comes from a personal project I developed to support healthcare organizations in collecting patient data from underserved regions. It includes records of health appointments, both general and dental, for individuals in Fiji and Madagascar.
 
